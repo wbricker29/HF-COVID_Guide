@@ -15,8 +15,8 @@ At the core of this guide is outling the available financial aide options for st
 
 | Item | Program | High Level Details | Application Method |
 | --- | --- | --- | --- |
-| [Loan via CARES Act/PPP](1-Loan_PPP.md) | Paycheck Protection Program (CARES act sections 1101-1107) | A loan for __Operating expenses Only__ <br/> - 250% of average monthly payroll expenses up to $10mm <br/> - Available to __many__ venture backed startups|   |
-| [Loan via EIDL](2-Loan_EIDL.md) | Economic Injury Disaster Loans (EIDLS) | A loan for __operating and non-operating expenses__ <br/> - $2mm max, based on XYZ <br/> - Available to __some__ startups  |   |
+| [Loan via CARES Act/PPP](1-Loan_PPP.md) | Paycheck Protection Program (CARES act sections 1101-1107) | A loan for __Operating expenses Only__ <br/> - 250% of average monthly payroll expenses up to $10mm <br/> - Available to __many__ venture backed startups -__Possible__ foregiveness|   |
+| [Loan via EIDL](2-Loan_EIDL.md) | Economic Injury Disaster Loans (EIDLS) | A loan for __operating and non-operating expenses__ <br/> - $2mm max, based on XYZ <br/> - Available to __some__ startups <br/> -__No__ foregiveness |   |
 | [Tax Credits](3-Tax_Credit.md) | CARES act sections 2302 |   |   |
 | [Tax Deferrals](3-Tax_Defferal.md) | CARES act sections 2301 |   |   |
 

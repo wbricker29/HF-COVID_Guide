@@ -10,14 +10,22 @@ While information and interpretation are evolving quickly, here are some great r
 
 ## Law firm Overviews
 [Goodwin Law](https://www.goodwinlaw.com/publications/2020/03/03\_26-us-senate-passes-cares-act)
+_Best resource for detailed and structured PPP Loan guidance_
 
 [Fenwick](https://www.fenwick.com/publications/Pages/CARES-Act-What-the-Paycheck-Protection-Program-Means-for-Startups-.aspx)
+_Great for PPP Loan guidance_
 
 [Choate](https://www.choate.com/insights/covid-19-stimulus-loans-are-pe-and-vc-portfolio-companies-eligible.html)
 
 [Gibson Dunn](https://www.gibsondunn.com/senate-advances-the-cares-act-to-stabilize-economic-sector-during-coronavirus-pandemic/)
+_good overview of the bill including other provisions_
 
+[Skadden](https://www.skadden.com/insights/publications/2020/03/cares-act-provides-much-needed-stimulus#comp)
+_good for tax guidance_
 ## Other Guides
+[Krost](https://www.krostcpas.com/news/the-economic-injury-disaster-loan-eidl-program-vs-the-paycheck-protection-program-ppp)
+_great guide on EIDL vs SBA loans_
+
 [ COVID-19 Financial Assistance Guide for Startups by Dan Sawney](https://askalmanac.com/articles/13941/covid-19-financial-assistance-guide-for-startups)
 
 [Small Business Lending Facility for Venture-Backed Companies by Neil Dugal](https://www.notion.so/Small-Business-Lending-Facility-for-Venture-Backed-Companies-5d7a5eb993f94d6789f95259aed76cd5)

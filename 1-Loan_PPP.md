@@ -18,7 +18,9 @@ At the most basic level, The provision of loans to eligible businesses
 | Company Size | For franchises and hospitality businesses (NAICS code 72 &quot;accommodation and food services&quot;) with multiple locations <br/> - that employ more than 500 employees as an organization, but no more than 500 employees at any given location <br/> <br/> For other Businesses <br/> - Controlling entity employs less than 500 Employees (full-time, part time otherwise)* <br/>- Companies that are smaller than the [existing size standard](https://www.sba.gov/document/support--table-size-standards)|   |
 
 
-*Please note – defining who controls your business is a key question in understanding your eligibility. We have tried to Provide further clarity Here.
+*Please note – defining who controls your business is a key question in understanding your eligibility. We have tried to Provide further clarity [Here](A2-Affiliation_Control.md).
+However, the TL;DR is
+__- if the founding groups owns a majority (>50%) or a disproportionate stake, the size requirement applies to only the given company, not the larger set of companies held by investors.__
 
 
 ## What is available
@@ -33,7 +35,7 @@ At the most basic level, The provision of loans to eligible businesses
 | _Collateral Requirements_ | None |
 | _Recourse_ | None for approved use of proceeds |
 | _Use of Proceeds_ | -payroll costs <br/> -continued group health care benefits <br/> -salaries/commissions <br/> -mortgage interest payments <br/> -rent <br/> -utilities <br/> -interest on other debt obligations incurred prior to February 15, 2020.|
-| _Forgiveness_ | forgiveness amount which is excluded from taxable income, is equal to the payroll costs, mortgage interest payments, rent, and utility payments incurred or paid by a recipient during the covered period. |
+| _Forgiveness_ | forgiveness amount which is excluded from taxable income, is equal to the payroll costs, mortgage interest payments, rent, and utility payments incurred or paid by a recipient during the covered period  (the first 8 weeks after issuance). |
 | _Notes_ | *Payroll Costs <br/> - Includes-salary, wages, commissions, tips, PTO, health insurance, retirement benefits and local employment taxes for U.S.-based employee, capped at $100,000 annualized per employee <br/> - Excludes-Non US based employees <br/> **Alternative Calculations Methods <br/> - Companies Not in Business on June 30, 2019 — To use a measurement period of January 1, 2020 - February 29, 2020. <br/> - Seasonal Employers — Can use a measurement period of either (i) the 12-week period beginning February 15, 2019, or (ii) March 1, 2019 - June 30, 2019, instead of the one-year period leading up to loan origination. |
 
 ## How do you get it
