@@ -42,6 +42,9 @@ from March 13, 2020 through December 31, 2020</td>
 </tbody>
 </table>
 
+### How to apply
+As of now, the IRS has not provided guidance as to how to apply.
+
 
 ## Tax Defferal
 ### Overview
@@ -56,3 +59,6 @@ All businesses, as long as they do not participate in the CARES act loan program
 For payroll taxes from March 27, 2020 to January 1, 2021
 - 50% of employer portion of social security taxes are deferred until December 31, 2021
 - 50% of employer portion of social security taxes are deferred until December 31, 2022
+
+### How to apply
+As of now, the IRS has not provided guidance as to how to apply.

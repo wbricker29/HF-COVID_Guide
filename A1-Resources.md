@@ -1,4 +1,4 @@
-# Resources
+# Appendix Item 1 - Helpful Resources
 
 While information and interpretation are evolving quickly, here are some great resources we used to help put together our guide
 
@@ -15,13 +15,19 @@ _Best resource for detailed and structured PPP Loan guidance_
 [Fenwick](https://www.fenwick.com/publications/Pages/CARES-Act-What-the-Paycheck-Protection-Program-Means-for-Startups-.aspx)
 _Great for PPP Loan guidance_
 
-[Choate](https://www.choate.com/insights/covid-19-stimulus-loans-are-pe-and-vc-portfolio-companies-eligible.html)
+[Choate -  Portfolio Eligibility](https://www.choate.com/insights/covid-19-stimulus-loans-are-pe-and-vc-portfolio-companies-eligible.html)
+_good overview of loans and size requirements_
+
+[Choate -  Tax Overview](https://www.choate.com/insights/alert-private-equity-and-business-tax-aspects-of-the-cares-act.html)
+_good tax benefits overview_
 
 [Gibson Dunn](https://www.gibsondunn.com/senate-advances-the-cares-act-to-stabilize-economic-sector-during-coronavirus-pandemic/)
 _good overview of the bill including other provisions_
 
 [Skadden](https://www.skadden.com/insights/publications/2020/03/cares-act-provides-much-needed-stimulus#comp)
 _good for tax guidance_
+
+
 ## Other Guides
 [Krost](https://www.krostcpas.com/news/the-economic-injury-disaster-loan-eidl-program-vs-the-paycheck-protection-program-ppp)
 _great guide on EIDL vs SBA loans_
@@ -31,3 +37,9 @@ _great guide on EIDL vs SBA loans_
 [Small Business Lending Facility for Venture-Backed Companies by Neil Dugal](https://www.notion.so/Small-Business-Lending-Facility-for-Venture-Backed-Companies-5d7a5eb993f94d6789f95259aed76cd5)
 
 [NVCA's Guide to Covid-19](https://nvca.org/nvca-response-to-covid-19/)
+
+
+## Misc Resource Portals
+[NVCA Portal](https://nvca.org/nvca-response-to-covid-19/)
+
+[SBA Portal](https://www.sba.gov/disaster-assistance/coronavirus-covid-19)

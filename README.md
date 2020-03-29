@@ -17,11 +17,11 @@ At the core of this guide is outling the available financial aide options for st
 | --- | --- | --- |
 | [Loan via CARES Act/PPP](1-Loan_PPP.md) | Paycheck Protection Program (CARES act sections 1101-1107) | A loan for __Operating expenses Only__ <br/> - 250% of average monthly payroll expenses up to $10mm <br/> - Available to __many__ venture backed startups -__Possible__ foregiveness|
 | [Loan via EIDL](2-Loan_EIDL.md) | Economic Injury Disaster Loans (EIDLS) | A loan for __operating and non-operating expenses__ <br/> - $2mm max, based on XYZ <br/> - Available to __some__ startups <br/> -__No__ foregiveness |
-| [Tax Relief](3-Tax_Relief.md) | CARES act sections 2301,2302 | Options to either <br/>  defer 2020 payroll tax payment over the next two years <br/>- receive a 50% credit for payroll taxes for certain employers and employees  |
+| [Tax Relief](3-Tax_Relief.md) | CARES act sections 2301,2302 | Options to either <br/>  - defer 2020 payroll tax payment over the next two years <br/>- receive a 50% credit for payroll taxes for certain employers and employees  |
 
 
 
-In addtion we provide
+In addition we provide
 - Some helpful [resources](A1-Resources.md) we have found during our research
 - A high level overview of one of the key questions around PPP loan qualification - [Control and Affiliation](A2_Affiliation_Control.md)
 - a side by side [comparison](A3-PPP_EIDL_Compare.md) of EIDL And PPP Loans

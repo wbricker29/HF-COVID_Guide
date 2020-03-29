@@ -1,4 +1,4 @@
-# Appendix Item 1 - Control and Affiliation
+# Appendix Item 2 - Control and Affiliation
 ## What is the Affiliation and why does it matter
 The key question people have been talking about is how the SBA’s existing Affiliation rules will be applied to small businesses seeking PPP aide.
 
@@ -11,14 +11,16 @@ More on affiliation definition, application and examples [here](https://www.sba.
 
 ## Affiliation and the CARES Act
 Certain business have had The affiliation rules waved
-- any business receiving financial assistance from a Small Business Investment Company (“SBIC”).
-- franchises and hospitality businesses (NAICS code 72 “accommodation and food services”) with multiple locations, whereby the 500 person limitation is applicable to all individual locations
+- Any business receiving financial assistance from a Small Business Investment Company (“SBIC”).
+- Franchises and hospitality businesses (NAICS code 72 “accommodation and food services”) with multiple locations, whereby the 500 person limitation is applicable to all individual locations
 
 However, for all other entities, the CARES act does not provide clarity on how affiliation rules will be applied for the PPP program.
 
 This clearly poses a challenge for both venture firms and their portfolio companies. Thus, we have to ask – what is considered control?
 
 ## Affiliation & Control Guidelines
+
+While there is room for interpretation in all these guidelines, below is a rough outline of who who would be defined as controler for a scenario where a company has 2 founders, 2 venture investors, and other investors (who each hold less than 5%)
 
 | Scenario | Controller | Example Ownership Stakes | Outcome |
 | --- | :---: | --- | :---: |

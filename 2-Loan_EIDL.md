@@ -107,7 +107,7 @@ The Economic Injury Disaster Loans is an existing aide program that has been exp
 </table>
 
 
-## How do you get it
+## How to apply
 ### Application Process
 - EIDLS are available and you can apply through the [SBA Website](https://www.sba.gov/disaster/apply-for-disaster-loan/index.html)
 
