@@ -42,7 +42,7 @@ At the most basic level, The provision of loans to eligible businesses
 	- The SBA is required to issue guidance and regulations within 15 days of enactment
 	- Expect to find updates via
 		- NVCA [Covid-19 site](https://nvca.org/nvca-response-to-covid-19/)
-		- SBA
+		- SBA [Covid-19 site](https://www.sba.gov/disaster-assistance/coronavirus-covid-19)
 
 ### Application Requirements
 - Requirements are still being hammered out but you can get ready by
