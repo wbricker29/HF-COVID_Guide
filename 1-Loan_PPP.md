@@ -18,7 +18,7 @@ At the most basic level, The provision of loans to eligible businesses
 | Company Size | For franchises and hospitality businesses (NAICS code 72 &quot;accommodation and food services&quot;) with multiple locations <br/> - that employ more than 500 employees as an organization, but no more than 500 employees at any given location <br/> <br/> For other Businesses <br/> - Controlling entity employs less than 500 Employees (full-time, part time otherwise)* <br/>- Companies that are smaller than the [existing size standard](https://www.sba.gov/document/support--table-size-standards)|   |
 
 
-*Please note – defining who controls your business is a key question in understanding your eligibility. We have tried to Provide further clarity Here.
+*Please note – defining who controls your business is a key question in understanding your eligibility. We have tried to Provide further clarity [Here](A2_Affiliation_Control.md).
 
 
 ## What is available
