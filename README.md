@@ -17,10 +17,23 @@ At the core of this guide is outling the available financial aide options for st
 | --- | --- | --- | --- |
 | [Loan via CARES Act/PPP](1-Loan_PPP.md) | Paycheck Protection Program (CARES act sections 1101-1107) | A loan for __Operating expenses Only__ <br/> - 250% of average monthly payroll expenses up to $10mm <br/> - Available to __many__ venture backed startups -__Possible__ foregiveness|   |
 | [Loan via EIDL](2-Loan_EIDL.md) | Economic Injury Disaster Loans (EIDLS) | A loan for __operating and non-operating expenses__ <br/> - $2mm max, based on XYZ <br/> - Available to __some__ startups <br/> -__No__ foregiveness |   |
-| [Tax Credits](3-Tax_Credit.md) | CARES act sections 2302 |   |   |
-| [Tax Deferrals](3-Tax_Defferal.md) | CARES act sections 2301 |   |   |
+| [Tax Relief](3-Tax_Relief.md) | CARES act sections 2301,2302 | options to either <br/>  defer 2020 payroll tax payment over the next two years <br/>- receive a 50% credit for payroll taxes for certain employers and employees  |   |
+
 
 
 In addtion we provide
 - Some helpful [resources](A1-Resources.md) we have found during our research
 - A high level overview of one of the key questions around PPP loan qualification - [Control and Affiliation](A2_Affiliation_Control.md)
+- a side by side [comparison](A3-PPP_EIDL_Compare.md) of EIDL And PPP Loans
+- an [FAQ](A4-FAQ.md) that we will try to keep updated
+
+## How to think about aide options
+
+### Considerations
+For picking the best option, you should understand
+-	Based on the structure of your business, what programs are you eligible for, and what economic value do they provide?
+-	What are the pain points that are impacting you the most, and for how long do you think they will last?
+  - Are your costs mostly payroll related?
+  - How long will you be able to retain employees after the use of
+-	How your choice impacts what other options are available
+o	For example,  business can participate in only one of these programs – EG. You cannot take tax deferrals and get an SBA loan.
