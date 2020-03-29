@@ -1,4 +1,4 @@
-# Hustle Fund Covid-19 US Relief Guide
+# Hustle Fund COVID-19 US Relief Guide
 
 ## Intro
 Most people have heard about the  Coronavirus Aid, Relief, and Economic Security (CARES) Act by now – the 2 trillion dollar stimulus bill passed by the US government to help businesses and individuals impacted by the coronavirus epidemic.
