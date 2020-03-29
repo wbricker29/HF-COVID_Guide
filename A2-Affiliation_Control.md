@@ -7,7 +7,7 @@ The affiliation rules are a set of standards that define the scope of considerat
 If the controlling interest is deemed to be an affiliate, the size requirement is applied to all the entities of that affiliate
 - If Company A (Venture Firm) has a controlling stake in Company B (Startup), the size requirement is applied to Company A and all its controlled entities
 
-More on affiliation definition, application and examples [here](https://www.sba.gov/sites/default/files/affiliation_ver_03.pdf)
+More on affiliation definition, application and examples [here](https://www.sba.gov/document/support--affiliation-guide-size-standards)
 
 ## Affiliation and the CARES Act
 Certain business have had The affiliation rules waved
