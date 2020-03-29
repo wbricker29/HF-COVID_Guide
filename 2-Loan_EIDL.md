@@ -1,6 +1,8 @@
 # Loan via Economic Injury Disaster Loans (EIDLS)
 ## Overview
 
+The Economic Injury Disaster Loans is an existing aide program that has been expanded under the CARE ACT.
+
 ## Who is Eligible
 
 <table>
@@ -39,6 +41,7 @@
 
 ## What is available
 
+<table>
 <thead>
 <tr class="header">
 <th></th>
@@ -85,22 +88,24 @@
 <td>-Under $200k = No personal guarantee required<br />
 -Over $200k - personal guarantee required by any owner with 20% or more stake in the company</td>
 </tr>
-<tr class="even">
+
+<tr class="odd">
 <td>Use of Proceeds</td>
 <td>- Payroll Cost<br />
 - Financial obligations<br />
 - Other operating expenses</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td>Foregiveness</td>
 <td>none</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td>Notes</td>
-<td></td>
+<td> Information as of 2/29. Information is subject to change</td>
 </tr>
 </tbody>
 </table>
+
 
 ## How do you get it
 ### Application Process
@@ -109,4 +114,4 @@
 ### Application Requirements
 - [Business Loan Application (Form 5)](https://www.sba.gov/disaster/apply-for-disaster-loan/pdfs/Business%20Loan%20Application%20(SBA%20Form%205).pdf)
 - [Home or Sole Proprietor Loan Application (SBA Form 5C)](https://www.sba.gov/disaster/apply-for-disaster-loan/pdfs/Home%20or%20Sole%20Proprietor%20Loan%20Application%20(SBA%20Form%205C).pdf)
-- [E]conomic Injury Disaster Loan Supporting Information (Form P-019)](https://www.sba.gov/disaster/apply-for-disaster-loan/pdfs/Economic%20Injury%20Disaster%20Loan%20Supporting%20Information%20(P-019).pdf)
+- [Economic Injury Disaster Loan Supporting Information (Form P-019)](https://www.sba.gov/disaster/apply-for-disaster-loan/pdfs/Economic%20Injury%20Disaster%20Loan%20Supporting%20Information%20(P-019).pdf)
