@@ -18,7 +18,7 @@ At the most basic level, The provision of loans to eligible businesses
 | Company Size | For franchises and hospitality businesses (NAICS code 72 &quot;accommodation and food services&quot;) with multiple locations <br/> - that employ more than 500 employees as an organization, but no more than 500 employees at any given location <br/> <br/> For other Businesses <br/> - Controlling entity employs less than 500 Employees (full-time, part time otherwise)* <br/>- Companies that are smaller than the [existing size standard](https://www.sba.gov/document/support--table-size-standards)|   |
 
 
-*Please note – defining who controls your business is a key question in understanding your eligibility. We have tried to Provide further clarity [Here](A2_Affiliation_Control.md).
+*Please note – defining who controls your business is a key question in understanding your eligibility. We have tried to Provide further clarity Here.
 
 
 ## What is available
@@ -42,7 +42,7 @@ At the most basic level, The provision of loans to eligible businesses
 	- The SBA is required to issue guidance and regulations within 15 days of enactment
 	- Expect to find updates via
 		- NVCA [Covid-19 site](https://nvca.org/nvca-response-to-covid-19/)
-		- SBA [Covid-19 site](https://www.sba.gov/disaster-assistance/coronavirus-covid-19)
+		- SBA
 
 ### Application Requirements
 - Requirements are still being hammered out but you can get ready by
