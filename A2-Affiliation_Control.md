@@ -1,4 +1,11 @@
 # Appendix Item 2 - Control and Affiliation
+
+## TL;DR 
+__For founding teams with greater than 50% ownership - you should be eligible__
+
+__For teams where this doesnt apply, we are hopeful that we will get clarity around how the two defintions  definitions of "common interest" and "disproportionate ownership" will be intrepreted going forward.__
+
+
 ## What is the Affiliation and why does it matter
 The key question people have been talking about is how the SBA’s existing Affiliation rules will be applied to small businesses seeking PPP aide.
 
@@ -10,7 +17,7 @@ If the controlling interest is deemed to be an affiliate, the size requirement i
 More on affiliation definition, application and examples [here](https://www.sba.gov/document/support--affiliation-guide-size-standards)
 
 ## Affiliation and the CARES Act
-Certain business have had The affiliation rules waved
+Certain businesses have had The affiliation rules waved
 - Any business receiving financial assistance from a Small Business Investment Company (“SBIC”).
 - Franchises and hospitality businesses (NAICS code 72 “accommodation and food services”) with multiple locations, whereby the 500 person limitation is applicable to all individual locations
 

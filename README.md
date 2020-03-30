@@ -29,11 +29,15 @@ In addition we provide
 
 ## Our Reccomendation
 We Recommend that all our portfolio companies consider first and foremost the PPP loan. We believe it has the most favorable terms for our founders
--	Potential forgiveness for approved payroll usage
+-	Potential forgiveness for approved payroll usage (up to 100% of principle)
 -	No personal guarantee
 -	No collateral requirements
+- No requirement to tie damage directly to COVID-19
 
 
 We recommend that our founders
 - Reach out to approved SBA lenders immediately (which can be found via the SBA’s [matching tool](https://www.sba.gov/funding-programs/loans/lender-match))
 - Start to prepare the proper documentation (which can be found on Neil Dugal’s suggested list of requirements [here](https://www.notion.so/Get-Ready-aea15aa847dd48d9b24816cf3f8f04f0))
+
+
+While we understand there are some questions around the affiliation clause (discused [here](A2-Afilliation_Control,md)) and the eligibility of founding teams with <50% ownership of their company,  the relief that this bill could provide merits the time it takes to start the process.
