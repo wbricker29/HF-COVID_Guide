@@ -40,4 +40,4 @@ We recommend that our founders
 - Start to prepare the proper documentation (which can be found on Neil Dugal’s suggested list of requirements [here](https://www.notion.so/Get-Ready-aea15aa847dd48d9b24816cf3f8f04f0))
 
 
-While we understand there are some questions around the affiliation clause (discused [here](A2-Afilliation_Control,md)) and the eligibility of founding teams with <50% ownership of their company,  the relief that this bill could provide merits the time it takes to start the process.
+While we understand there are some questions around the affiliation clause (discussed [here](A2-Afilliation_Control,md)) and the eligibility of founding teams with <50% ownership of their company,  the relief that this bill could provide merits the time it takes to start the process.

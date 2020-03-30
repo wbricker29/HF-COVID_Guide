@@ -6,9 +6,9 @@ A $350bn dollar program to provide loans to eligible businesses via the Small Bu
 At the most basic level, The provision of loans to eligible businesses
 - For payroll, rent, mortgage payments, utilities, and sick leave
 - Of up to $10M dollars
-- That can be forgiven if used in to proper way
+- That can be forgiven if used in the proper way
 
-## Who is Eligible
+## Who is eligible?
 
 
 |  |   |
@@ -24,7 +24,7 @@ __However, the TL;DR is__
 __- if the founding groups owns a majority (>50%) or a disproportionate stake, the size requirement applies to only the given company, not the larger set of companies held by investors.__
 
 
-## What is available
+## What is available?
 |  |   |
 | --- | --- |
 | _Amount_ | Lesser of <br/> - 250% of average monthly payroll cost* (calculated over the previous 12 months)** <br/> - $10 Mn|
@@ -36,8 +36,8 @@ __- if the founding groups owns a majority (>50%) or a disproportionate stake, t
 | _Collateral Requirements_ | None |
 | _Recourse_ | None for approved use of proceeds |
 | _Use of Proceeds_ | -payroll costs <br/> - continued group health care benefits <br/> - salaries/commissions <br/> - mortgage interest payments <br/> - rent <br/> - utilities <br/> - interest on other debt obligations incurred prior to February 15, 2020.|
-| _Forgiveness_ | forgiveness amount which is excluded from taxable income, is equal to the payroll costs, mortgage interest payments, rent, and utility payments incurred or paid by a recipient during the covered period  (the first 8 weeks after issuance). THis is also dependent on maintaining workforce size compared to previous comparable period |
-| _Other Requirements_ | The borrowing comapny will have to certify that  <br/> - “that the uncertainty of current economic conditions makes necessary the loan request to support ongoing operations” <br/> -“acknowledging that funds will be used to retain workers and maintain payroll or make mortgage payments, lease payments and utility payments” <br/> - Has no received, or is pending receipt, of a loan “for the same purpose and duplicative of amounts applied for or received” under the PPP Loan |
+| _Forgiveness_ | forgiveness amount, which is excluded from taxable income, is equal to the payroll costs, mortgage interest payments, rent, and utility payments incurred or paid by a recipient during the covered period  (the first 8 weeks after issuance). This is also dependent on maintaining workforce size compared to previous comparable period |
+| _Other Requirements_ | The borrowing company will have to certify that  <br/> - “that the uncertainty of current economic conditions makes necessary the loan request to support ongoing operations” <br/> -“acknowledging that funds will be used to retain workers and maintain payroll or make mortgage payments, lease payments and utility payments” <br/> - Has no received, or is pending receipt, of a loan “for the same purpose and duplicative of amounts applied for or received” under the PPP Loan |
 | _Notes_ | \*Payroll Costs <br/> - Includes-salary, wages, commissions, tips, PTO, health insurance, retirement benefits and local employment taxes for U.S.-based employee, capped at $100,000 annualized per employee <br/> - Excludes-Non US based employees <br/> \**Alternative Calculations Methods <br/> - Companies Not in Business on June 30, 2019 — To use a measurement period of January 1, 2020 - February 29, 2020. <br/> - Seasonal Employers — Can use a measurement period of either (i) the 12-week period beginning February 15, 2019, or (ii) March 1, 2019 - June 30, 2019, instead of the one-year period leading up to loan origination. <br/>  <br/>  |
 
 ## How to apply
@@ -49,6 +49,6 @@ __- if the founding groups owns a majority (>50%) or a disproportionate stake, t
 		- SBA [Covid-19 site](https://www.sba.gov/page/coronavirus-covid-19-small-business-guidance-loan-resources)
 
 ### Application Requirements
-- Requirements are still being hammered out but you can get ready by
+- Requirements are still being hammered out, but you can get ready by
 	- Checking out the SBAs overview of the lending process [here](https://www.sba.gov/funding-programs/loans)
 	- Checking out Neil Dugal’s suggested list of requirements [here](https://www.notion.so/Get-Ready-aea15aa847dd48d9b24816cf3f8f04f0)

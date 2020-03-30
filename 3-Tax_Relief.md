@@ -8,7 +8,7 @@ The CARES act has a provision that provides a credit for 50% payroll taxes for e
 ### Who is Eligible
 - Businesses whose operations were fully or partially suspended due to the COVID-19 related shutdown order
 OR
-- Businesses whose gross receipts decelined by more than 50% in 1Q2020 when compared to 1Q2019
+- Businesses whose gross receipts declined by more than 50% in 1Q2020 when compared to 1Q2019
 AND
 - Businesses who have not received a loan via EIDL or PPP programs
 
@@ -46,7 +46,7 @@ from March 13, 2020 through December 31, 2020</td>
 As of now, the IRS has not provided guidance as to how to apply.
 
 
-## Tax Defferal
+## Tax Deferral
 ### Overview
 The CARES act has a provision that allows for partial the deferral of payment of employer payroll taxes for the remainder of 2020.
 

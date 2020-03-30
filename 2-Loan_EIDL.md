@@ -96,7 +96,7 @@ The Economic Injury Disaster Loans is an existing aide program that has been exp
 - Other operating expenses</td>
 </tr>
 <tr class="even">
-<td>Foregiveness</td>
+<td>Forgiveness</td>
 <td>none</td>
 </tr>
 <tr class="odd">

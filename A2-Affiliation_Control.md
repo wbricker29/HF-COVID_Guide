@@ -1,9 +1,9 @@
 # Appendix Item 2 - Control and Affiliation
 
-## TL;DR 
+## TL;DR
 __For founding teams with greater than 50% ownership - you should be eligible__
 
-__For teams where this doesnt apply, we are hopeful that we will get clarity around how the two defintions  definitions of "common interest" and "disproportionate ownership" will be intrepreted going forward.__
+__For teams where this does not apply, we are hopeful that we will get clarity around how the two definitions of "common interest" and "disproportionate ownership" will be interpreted  going forward.__
 
 
 ## What is the Affiliation and why does it matter
@@ -27,12 +27,12 @@ This clearly poses a challenge for both venture firms and their portfolio compan
 
 ## Affiliation & Control Guidelines
 
-While there is room for interpretation in all these guidelines, below is a rough outline of who who would be defined as controler for a scenario where a company has 2 founders, 2 venture investors, and other investors (who each hold less than 5%)
+While there is room for interpretation in all these guidelines, below is a rough outline of who would be defined as controller for a scenario where a company has 2 founders, 2 venture investors, and other investors (who each hold less than 5%)
 
 | Scenario | Controller | Example Ownership Stakes | Outcome |
 | --- | :---: | --- | :---: |
 | An individual or entity owns \> 50 % of the voting stock of a business <br/> _(Stock ownership (13 C.F.R. § 121.103(c))_ | That individual or entity | Founder = 51% <br/> VC A = 20% <br/> VC B = 10% <br/> Others = 19% | Founder is Controller |
 | An individual or entity has a disproportionate ownership stake <br/> _(Stock ownership (13 C.F.R. § 121.103(c))_ | That individual or entity | Founder = 40% <br/> VC A = 15% <br/> VC B = 15% <br/> Others = 30% | Founder is Controller |
-| An individual (officer, director, managing member, general parter) controls the board of management of a business (via voting rights or veto rights) <br/> _(Common management (13 C.F.R. § 121.103(e))_ | That individual | Any of the ownership scenarios above, but VC A has veto rights on board motions Or  VC A has 3 out of 5 board seats | VC A |
-| A set of owners, who are deemed to have identical (or substantially identical) business or economic interestsown a controlling stake in the company <br/> _(Identity of interest between individuals or businesses , including family members (13 C.F.R. § 121.103(f))_   | These set of Individuals | Founder = 23% <br/> VC A = 23% <br/> VC B = 5% <br/> Others = 49%| Founder &amp; VC A |
+| An individual (officer, director, managing member, general partner) controls the board of management of a business (via voting rights or veto rights) <br/> _(Common management (13 C.F.R. § 121.103(e))_ | That individual | Any of the ownership scenarios above, but VC A has veto rights on board motions Or  VC A has 3 out of 5 board seats | VC A |
+| A set of owners, who are deemed to have identical (or substantially identical) business or economic interests own a controlling stake in the company <br/> _(Identity of interest between individuals or businesses , including family members (13 C.F.R. § 121.103(f))_   | These set of Individuals | Founder = 23% <br/> VC A = 23% <br/> VC B = 5% <br/> Others = 49%| Founder &amp; VC A |
 | None of the above rules apply | Board and CEO |   |   |
