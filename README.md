@@ -27,12 +27,13 @@ In addition we provide
 - a side by side [comparison](A3-PPP_EIDL_Compare.md) of EIDL And PPP Loans
 - an [FAQ](A4-FAQ.md) that we will try to keep updated
 
-## How to think about aide options
+## Our Reccomendation
+We Recommend that all our portfolio companies consider first and foremost the PPP loan. We believe it has the most favorable terms for our founders
+-	Potential forgiveness for approved payroll usage
+-	No personal guarantee
+-	No collateral requirements
 
-### Considerations
-For picking the best option, you should understand
--	Based on the structure of your business, what programs are you eligible for, and what economic value do they provide?
--	What are the pain points that are impacting you the most, and for how long do you think they will last?
-  - Are your costs mostly payroll related?
--	How your choice impacts what other options are available
-  - For example,  business can participate in only one of these programs – EG. You cannot take tax deferrals and get an SBA loan.
+
+We recommend that our founders
+- Reach out to approved SBA lenders immediately (which can be found via the SBA’s [matching tool](https://www.sba.gov/funding-programs/loans/lender-match))
+- Start to prepare the proper documentation (which can be found on Neil Dugal’s suggested list of requirements [here](https://www.notion.so/Get-Ready-aea15aa847dd48d9b24816cf3f8f04f0))
