@@ -38,6 +38,12 @@ _great guide on EIDL vs SBA loans_
 
 [NVCA's Guide to Covid-19](https://nvca.org/nvca-response-to-covid-19/)
 
+[NVCA's guidance on affiliation](https://nvca.org/wp-content/uploads/2020/03/VC-SBA-Lending-and-Affiliation-Guidance-for-SBA-Loan-Programs.pdf)
+
+[SBA's guide to affiliation](https://www.sba.gov/sites/default/files/affiliation_ver_03.pdf)
+
+[SBAs Size Standards ](https://www.sba.gov/document/support--affiliation-guide-size-standards)
+
 
 ## Misc Resource Portals
 [NVCA Portal](https://nvca.org/nvca-response-to-covid-19/)
