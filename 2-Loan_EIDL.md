@@ -109,7 +109,7 @@ The Economic Injury Disaster Loans is an existing aide program that has been exp
 
 ## How to apply
 ### Application Process
-- EIDLS are available and you can apply through the [SBA Website](https://www.sba.gov/disaster/apply-for-disaster-loan/index.html)
+- EIDLS are available and you can apply through the [SBA Website](https://covid19relief.sba.gov/#/)
 
 ### Application Requirements
 - [Business Loan Application (Form 5)](https://www.sba.gov/disaster/apply-for-disaster-loan/pdfs/Business%20Loan%20Application%20(SBA%20Form%205).pdf)

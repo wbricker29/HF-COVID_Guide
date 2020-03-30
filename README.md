@@ -13,11 +13,11 @@ __Please note, none of this information constitutes legal or financial advice. Y
 
 At the core of this guide is outlining the available financial aide options for startups
 
-| Item | Program | High Level Details |
-| --- | --- | --- |
-| [Loan via CARES Act/PPP](1-Loan_PPP.md) | Paycheck Protection Program (CARES act sections 1101-1107) | A loan for __Operating expenses Only__ <br/> - 250% of average monthly payroll expenses up to $10mm <br/> - Available to __many__ venture backed startups -__Possible__ forgiveness|
-| [Loan via EIDL](2-Loan_EIDL.md) | Economic Injury Disaster Loans (EIDLS) | A loan for __operating and non-operating expenses__ <br/> - $2mm max, based on XYZ <br/> - Available to __some__ startups <br/> -__No__ forgiveness |
-| [Tax Relief](3-Tax_Relief.md) | CARES act sections 2301,2302 | Options to either <br/>  - defer 2020 payroll tax payment over the next two years <br/>- receive a 50% credit for payroll taxes for certain employers and employees  |
+| Item | Program | High Level Details | How to Apply |
+| --- | --- | --- | --|
+| [Loan via CARES Act/PPP](1-Loan_PPP.md) | Paycheck Protection Program (CARES act sections 1101-1107) | A loan for __operating expenses only__ <br/> - 250% of average monthly payroll expenses up to $10mm <br/> - Available to __many__ venture backed startups -__Possible__ forgiveness| TBD <br/> (expecting guidance 3/30) |
+| [Loan via EIDL](2-Loan_EIDL.md) | Economic Injury Disaster Loans (EIDLS) | A loan for __operating and non-operating expenses__ <br/> - $2mm max, based on XYZ <br/> - Available to __some__ startups <br/> -__No__ forgiveness | [Here](https://covid19relief.sba.gov/#/)
+| [Tax Relief](3-Tax_Relief.md) | CARES act sections 2301,2302 | Options to either <br/>  - defer 2020 payroll tax payment over the next two years <br/>- receive a 50% credit for payroll taxes for certain employers and employees  | TBD
 
 
 
@@ -28,7 +28,7 @@ In addition we provide
 - an [FAQ](A4-FAQ.md) that we will try to keep updated
 
 ## Our Recommendation
-We Recommend that all our portfolio companies consider first and foremost the PPP loan. We believe it has the most favorable terms for our founders
+We Recommend that all our portfolio companies __consider first and foremost the PPP loan__. We believe it has the most favorable terms for our founders
 -	Potential forgiveness for approved payroll usage (up to 100% of principle)
 -	No personal guarantee
 -	No collateral requirements
