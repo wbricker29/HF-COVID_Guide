@@ -24,8 +24,8 @@ At the core of this guide is outlining the available financial aide options for 
 In addition we provide
 - Some helpful [resources](A1-Resources.md) we have found during our research
 - A high level overview of one of the key questions around PPP loan qualification - [Control and Affiliation](A2_Affiliation_Control.md)
-- a side by side [comparison](A3-PPP_EIDL_Compare.md) of EIDL And PPP Loans
-- an [FAQ](A4-FAQ.md) that we will try to keep updated
+- A side by side [comparison](A3-PPP_EIDL_Compare.md) of EIDL And PPP Loans
+- An [FAQ](A4-FAQ.md) that we will try to keep updated
 
 ## Our Recommendation
 We Recommend that all our portfolio companies __consider first and foremost the PPP loan__. We believe it has the most favorable terms for our founders
