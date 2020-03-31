@@ -36,9 +36,7 @@ _great guide on EIDL vs SBA loans_
 
 [Small Business Lending Facility for Venture-Backed Companies by Neil Dugal](https://www.notion.so/Small-Business-Lending-Facility-for-Venture-Backed-Companies-5d7a5eb993f94d6789f95259aed76cd5)
 
-[NVCA's Guide to Covid-19](https://nvca.org/nvca-response-to-covid-19/)
-
-[NVCA's guidance on affiliation](https://nvca.org/wp-content/uploads/2020/03/VC-SBA-Lending-and-Affiliation-Guidance-for-SBA-Loan-Programs.pdf)
+[NVCA's memo on affiliation](https://nvca.org/wp-content/uploads/2020/03/VC-SBA-Lending-and-Affiliation-Guidance-for-SBA-Loan-Programs.pdf)
 
 [SBA's guide to affiliation](https://www.sba.gov/sites/default/files/affiliation_ver_03.pdf)
 
