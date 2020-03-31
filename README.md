@@ -38,6 +38,7 @@ We Recommend that all our portfolio companies __consider first and foremost the 
 We recommend that our founders
 - Reach out to approved SBA lenders immediately (which can be found via the SBA’s [matching tool](https://www.sba.gov/funding-programs/loans/lender-match))
 - Start to prepare the proper documentation (which can be found on Neil Dugal’s suggested list of requirements [here](https://www.notion.so/Get-Ready-aea15aa847dd48d9b24816cf3f8f04f0))
+  - Generally this will be all information on payroll for the last 12-18 months (Payroll = salaries and wages, severance, leave, benefits and taxes on the first 100k of annual salary (roughly $8,333/month) for us based employees)
 
 
 While we understand there are some questions around the affiliation clause (discussed [here](A2-Afilliation_Control,md)) and the eligibility of founding teams with <50% ownership of their company,  the relief that this bill could provide merits the time it takes to start the process.
