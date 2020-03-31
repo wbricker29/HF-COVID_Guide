@@ -36,9 +36,12 @@ We Recommend that all our portfolio companies __consider first and foremost the 
 
 
 We recommend that our founders
-- Reach out to approved SBA lenders immediately (which can be found via the SBA’s [matching tool](https://www.sba.gov/funding-programs/loans/lender-match))
+- Reach out to approved SBA lenders immediately (which can be found via the SBA’s [matching tool](https://www.sba.gov/funding-programs/loans/lender-match)) per US Senate SBE committee advice
+> You can apply for the Paycheck Protection Program (PPP) at any lending institution that is approved to participate in the program through the existing U.S. Small Business Administration (SBA) 7(a) lending program and additional lenders approved by the Department of Treasury. This could be the bank you already use, or a nearby bank. There are thousands of banks that already participate in the SBA’s lending programs, including numerous community banks. You do not have to visit any government institution to apply for the program. You can call your bank or find SBA-approved lenders in your area through SBA’s online Lender Match tool. You can call your local Small Business Development Center or Women’s Business Center and they will provide free assistance and guide you to lenders.
+[_source_](https://sbecouncil.org/wp-content/uploads/2020/03/Paycheck-Protection-Program-FAQs-for-Small-Businesses.pdf)
+
 - Start to prepare the proper documentation (which can be found on Neil Dugal’s suggested list of requirements [here](https://www.notion.so/Get-Ready-aea15aa847dd48d9b24816cf3f8f04f0))
-  - Generally this will be all information on payroll for the last 12-18 months (Payroll = salaries and wages, severance, leave, benefits and taxes on the first 100k of annual salary (roughly $8,333/month) for us based employees)
+  - Generally this will be all information on payroll for the last 12-18 months (Payroll = salaries and wages, severance, leave, benefits and taxes on the first 100k of annual salary (roughly $8,333/month) for US based employees)
 
 
 While we understand there are some questions around the affiliation clause (discussed [here](A2-Afilliation_Control,md)) and the eligibility of founding teams with <50% ownership of their company,  the relief that this bill could provide merits the time it takes to start the process.

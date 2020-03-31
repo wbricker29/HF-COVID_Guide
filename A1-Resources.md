@@ -36,17 +36,20 @@ _great guide on EIDL vs SBA loans_
 
 [Small Business Lending Facility for Venture-Backed Companies by Neil Dugal](https://www.notion.so/Small-Business-Lending-Facility-for-Venture-Backed-Companies-5d7a5eb993f94d6789f95259aed76cd5)
 
+[US Senate's SBE guide for small business owners ](https://sbecouncil.org/wp-content/uploads/2020/03/Senate-Small-Business-Committee-Guide-to-the-CARES-Act.pdf)
+
+## Reference Items For Specific Topics
 [NVCA's memo on affiliation](https://nvca.org/wp-content/uploads/2020/03/VC-SBA-Lending-and-Affiliation-Guidance-for-SBA-Loan-Programs.pdf)
 
 [SBA's guide to affiliation](https://www.sba.gov/sites/default/files/affiliation_ver_03.pdf)
 
-[SBA's Size Standards ](https://www.sba.gov/document/support--affiliation-guide-size-standards)
+[SBA's size standards ](https://www.sba.gov/document/support--affiliation-guide-size-standards)
 
-[SBA's PPP Page](https://www.sba.gov/funding-programs/loans/paycheck-protection-program)
-
-
+[SBA's PPP page](https://www.sba.gov/funding-programs/loans/paycheck-protection-program)
 
 ## Misc Resource Portals
 [NVCA Portal](https://nvca.org/nvca-response-to-covid-19/)
 
 [SBA Portal](https://www.sba.gov/disaster-assistance/coronavirus-covid-19)
+
+[US Senate SBE Portal](https://sbecouncil.org/2020/03/30/protecting-your-business-in-the-coronavirus-economy/)
