@@ -27,6 +27,7 @@ _good overview of the bill including other provisions_
 [Skadden](https://www.skadden.com/insights/publications/2020/03/cares-act-provides-much-needed-stimulus#comp)
 _good for tax guidance_
 
+[Cooley](https://www.cooley.com/news/insight/2020/2020-03-29-sba-programs-under-cares-act)
 
 ## Other Guides
 [Krost](https://www.krostcpas.com/news/the-economic-injury-disaster-loan-eidl-program-vs-the-paycheck-protection-program-ppp)
