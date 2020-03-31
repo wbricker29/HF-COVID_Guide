@@ -12,7 +12,7 @@ The key question people have been talking about is how the SBA’s existing Affi
 The affiliation rules are a set of standards that define the scope of consideration for size requirements when multiple parties have ownership interests in the firm – EG. Venture backed startups. Affiliation occurs when one company or person has control, or the power to control another.
 
 If the controlling interest is deemed to be an affiliate, the size requirement is applied to all the entities of that affiliate
-- If Company A (Venture Firm) has a controlling stake in Company B (Startup), the size requirement is applied to Company A and all its controlled entities
+- If Company A (Venture Firm) has a controlling stake in Company B (Startup), the size requirement is applied on the total employees of - Company B, Company A, and all of Company A's controlled entities
 
 More on affiliation definition, application and examples [here](https://www.sba.gov/document/support--affiliation-guide-size-standards)
 
@@ -27,7 +27,12 @@ This clearly poses a challenge for both venture firms and their portfolio compan
 
 ## Affiliation & Control Guidelines
 
-While there is room for interpretation in all these guidelines, below is a rough outline of who would be defined as controller for a scenario where a company has 2 founders, 2 venture investors, and other investors (who each hold less than 5%)
+The biggest potential blockers to eligibility are:
+- The existance of negative rights covenants (such as veto rights) on controlling decisions
+- The interpretation of common interests (what parties on the cap table are deemed to have common interests, and thus control) and disproportionate ownership (what amount of ownership qualifies as disproportionate) by the SBA
+
+
+While we are still waiting for further clarity on affiliation rules,  below is a rough outline of who would be defined as controller for a scenario where a company has 2 founders, 2 venture investors, and other investors (who each hold less than 5%)
 
 | Scenario | Controller | Example Ownership Stakes | Outcome |
 | --- | :---: | --- | :---: |

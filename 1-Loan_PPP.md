@@ -42,11 +42,8 @@ __- if the founding groups owns a majority (>50%) or a disproportionate stake, t
 
 ## How to apply
 ### Application Process
-- Right now, there is no process available for applying for a PPP loan
-	- The SBA is required to issue guidance and regulations within 15 days of enactment
-	- Expect to find updates via
-		- NVCA [Covid-19 site](https://nvca.org/nvca-response-to-covid-19/)
-		- SBA [Covid-19 site](https://www.sba.gov/page/coronavirus-covid-19-small-business-guidance-loan-resources)
+- Right now, the best way to get the process started is to reach out directly to eligible lender banks, which you can find [here](https://www.sba.gov/funding-programs/loans/paycheck-protection-program) if you do not already have a relationship with an eligible lender
+
 
 ### Application Requirements
 - Requirements are still being hammered out, but you can get ready by
