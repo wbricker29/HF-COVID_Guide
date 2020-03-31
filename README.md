@@ -42,6 +42,7 @@ We recommend that our founders
 
 - Start to prepare the proper documentation (which can be found on Neil Dugal’s suggested list of requirements [here](https://www.notion.so/Get-Ready-aea15aa847dd48d9b24816cf3f8f04f0))
   - Generally this will be all information on payroll for the last 12-18 months (Payroll = salaries and wages, severance, leave, benefits and taxes on the first 100k of annual salary (roughly $8,333/month) for US based employees)
-
+- If your investments have negative rights covenants that could impact your eligibility (EG. veto rights) it may be prudent to discuss with your investors the possibility of changing these covenants to enhance your eligibility. Per [NVCA Guidance](https://nvca.org/wp-content/uploads/2020/03/VC-SBA-Lending-and-Affiliation-Guidance-for-SBA-Loan-Programs.pdf), where yoou can also find a list of the most likely rights to impact your eligibility:
+> it may be possible to amend governing documents to mitigate any control rights that are considered high risk for creating affiliation prior to submitting the SBA loan application.
 
 While we understand there are some questions around the affiliation clause (discussed [here](A2-Afilliation_Control,md)) and the eligibility of founding teams with <50% ownership of their company,  the relief that this bill could provide merits the time it takes to start the process.
