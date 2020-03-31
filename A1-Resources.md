@@ -40,7 +40,10 @@ _great guide on EIDL vs SBA loans_
 
 [SBA's guide to affiliation](https://www.sba.gov/sites/default/files/affiliation_ver_03.pdf)
 
-[SBAs Size Standards ](https://www.sba.gov/document/support--affiliation-guide-size-standards)
+[SBA's Size Standards ](https://www.sba.gov/document/support--affiliation-guide-size-standards)
+
+[SBA's PPP Page](https://www.sba.gov/funding-programs/loans/paycheck-protection-program)
+
 
 
 ## Misc Resource Portals
