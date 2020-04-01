@@ -30,15 +30,15 @@ __-   if the founding groups owns a majority (>50%) or a disproportionate stake,
 | --- | --- |
 | _Amount_ | Lesser of <br/> - 250% of average monthly payroll cost* (calculated over the previous 12 months)** <br/> - $10 Mn |
 | _Length_ | 2 Years |
-| _Interest Rate_ | 0.5% or less |
+| _Interest Rate_ | 0.5% |
 | _Fees_ | None taken by SBA |
 | _Prepayment Penalty_ | None |
 | _Payment Deferral_ | Deferrable for minimum of 6 months, maximum of 1 year |
 | _Collateral Requirements_ | None |
 | _Recourse_ | None for approved use of proceeds |
-| _Use of Proceeds_ | -   payroll costs <br/> -   continued group health care benefits <br/> -   salaries/commissions <br/> -   mortgage interest payments <br/> -   rent <br/> -   utilities <br/> -   interest on other debt obligations incurred prior to February 15, 2020. |
-| _Forgiveness_ | According to the SBA: <br/> "The loan will be fully forgiven if the funds are used for payroll costs, interest on mortgages, rent, and utilities (due to likely high subscription, at least 75% of the forgiven amount must have been used for payroll)" <br/> "Forgiveness is based on the employer maintaining or quickly rehiring employees and maintaining salary levels.  Forgiveness will be reduced if full-time headcount declines, or if salaries and wages decrease." |
-| _Other Requirements_ | The borrowing company will have to certify that  <br/> - “that the uncertainty of current economic conditions makes necessary the loan request to support ongoing operations” <br/> -“acknowledging that funds will be used to retain workers and maintain payroll or make mortgage payments, lease payments and utility payments” <br/> - Has not received, or is pending receipt, of a loan “for the same purpose and duplicative of amounts applied for or received” under the PPP Loan |
+| _Use of Proceeds_ | - 75%+ must go to   payroll costs (salaries, wages, commissions, benefits ) <br/> -  up to 25% can go to mortgage & outstanding debt interest payments (that existed prior to February 15, 2020), rent, and utilities |
+| _Forgiveness_ | Per the [Treasury](https://home.treasury.gov/system/files/136/PPP%20Borrower%20Information%20Fact%20Sheet.pdf): <br/> - The loan proceeds are used to cover payroll costs, and most mortgage interest, rent, and utility costs over the 8 week period after the loan is made <br/> - Employee and compensation levels are maintained.  |
+| _Other Requirements_ | The borrowing company will have to certify that  <br/> - “that the uncertainty of current economic conditions makes necessary the loan request to support ongoing operations” <br/> - “acknowledging that funds will be used to retain workers and maintain payroll or make mortgage payments, lease payments and utility payments” <br/> - Has not received, or is pending receipt, of a loan “for the same purpose and duplicative of amounts applied for or received” under the PPP Loan |
 | _Notes_ | \*Payroll Costs <br/> -   Includes-salary, wages, commissions, tips, PTO, health insurance, retirement benefits and local employment taxes for U.S.-based employee, capped at $100,000 annualized per employee <br/> - Excludes-Non US based employees <br/> \**Alternative Calculations Methods <br/> -   Companies Not in Business on June 30, 2019 — To use a measurement period of January 1, 2020 - February 29, 2020. <br/> - Seasonal Employers —   Can use a measurement period of either (i) the 12-week period beginning February 15, 2019, or (ii) March 1, 2019 - June 30, 2019, instead of the one-year period leading up to loan origination. <br/>  <br/>  |
 
 ## How to apply
@@ -51,4 +51,4 @@ __-   if the founding groups owns a majority (>50%) or a disproportionate stake,
 ### Application Requirements
 
 - Sample requirements are now available [here](https://home.treasury.gov/system/files/136/Paycheck-Protection-Program-Application-3-30-2020-v3.pdf)
-- all owners with more than 20% ownership must be
+- all owners with more than 20% ownership must participate in application (via attestation of questions)

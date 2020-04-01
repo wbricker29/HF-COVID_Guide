@@ -1,5 +1,17 @@
 # Hustle Fund COVID-19 US Relief Guide
 
+## What's new
+
+3/31
+
+- Got official guidance from [treasury](https://home.treasury.gov/policy-issues/top-priorities/cares-act/assistance-for-small-businesses) and [SBA](https://www.sba.gov/funding-programs/loans/paycheck-protection-program-ppp#section-header-4) on PPP loan
+  - 0.5% interest, 2 year term
+  - 75%+ of proceeds must go to payroll
+  - sample application form
+  - reduction of potential 
+
+
+
 ## Intro
 
 Most people have heard about the  Coronavirus Aid, Relief, and Economic Security (CARES) Act by now – the $2 trillion stimulus bill passed by the US government to help businesses and individuals impacted by the Coronavirus epidemic.
