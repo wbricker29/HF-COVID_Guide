@@ -20,12 +20,13 @@ At the most basic level, The provision of loans to eligible businesses
 | Company Size | For franchises and hospitality businesses (NAICS code 72 "accommodation and food services") with multiple locations <br/> - that employ more than 500 employees as an organization, but no more than 500 employees at any given location <br/> <br/> For other Businesses <br/> - Controlling entity employs less than 500 Employees (full-time, part time otherwise)* <br/>- Companies that are smaller than the [existing size standard](https://www.sba.gov/document/support--table-size-standards) |   |
 
 *Please note – defining who controls your business is a key question in understanding your eligibility. We have tried to Provide further clarity [Here](A2-Affiliation_Control.md).
+
 __However, the TL;DR is__
 
-__-   if the founding groups owns a majority (>50%) or a disproportionate stake, the size requirement applies to only the given company, not the larger set of companies held by investors.__
-
+- __if the founding groups owns a majority (>50%) or a disproportionate stake, the size requirement applies to only the given company, not the larger set of companies held by investors.__
 
 ## What is available?
+
 |  |   |
 | --- | --- |
 | _Amount_ | Lesser of <br/> - 250% of average monthly payroll cost* (calculated over the previous 12 months)** <br/> - $10 Mn |
@@ -37,18 +38,46 @@ __-   if the founding groups owns a majority (>50%) or a disproportionate stake,
 | _Collateral Requirements_ | None |
 | _Recourse_ | None for approved use of proceeds |
 | _Use of Proceeds_ | - 75%+ must go to   payroll costs (salaries, wages, commissions, benefits ) <br/> -  up to 25% can go to mortgage & outstanding debt interest payments (that existed prior to February 15, 2020), rent, and utilities |
-| _Forgiveness_ | Per the [Treasury](https://home.treasury.gov/system/files/136/PPP%20Borrower%20Information%20Fact%20Sheet.pdf): <br/> - The loan proceeds are used to cover payroll costs, and most mortgage interest, rent, and utility costs over the 8 week period after the loan is made <br/> - Employee and compensation levels are maintained.  |
-| _Other Requirements_ | The borrowing company will have to certify that  <br/> - “that the uncertainty of current economic conditions makes necessary the loan request to support ongoing operations” <br/> - “acknowledging that funds will be used to retain workers and maintain payroll or make mortgage payments, lease payments and utility payments” <br/> - Has not received, or is pending receipt, of a loan “for the same purpose and duplicative of amounts applied for or received” under the PPP Loan |
+| _Forgiveness_ | Per the [Treasury](https://home.treasury.gov/system/files/136/PPP%20Borrower%20Information%20Fact%20Sheet.pdf) requirements for forgiveness eligibility are: <br/> - The loan proceeds are used to cover payroll costs and most mortgage interest, rent, and utility costs over the 8 week period after the loan is made <br/> - Employee and compensation levels are maintained. <br/> <br/>  The amount of the loan forgiveness will be reduced if there is a reduction in the number of employees or wages in excess of 25% of total wages during the period.   |
+| _Certification Requirements_ | The borrowing company will have to certify that  <br/> - Current economic uncertainty makes the loan necessary to support your ongoing operations. - the funds will be used to retain workers and maintain payroll or to make mortgage, lease, and utility payments. <br/> - You have not and will not receive another loan under this program. <br/> - You will provide to the lender documentation that verifies the number of full-time equivalent employees on payroll and the dollar amounts of payroll costs, covered mortgage interest payments, covered rent payments, and covered utilities for the eight weeks after getting this loan. <br/> - All the information you provided in your application and in all supporting documents and forms is true and accurate. Knowingly making a false statement to get a loan under this program is punishable by law.  <br/> -  You acknowledge that the lender will calculate the eligible loan amount using the tax documents you submitted. You affirm that the tax documents are identical to those you submitted to the IRS. And you also understand, acknowledge, and agree that the lender can share the tax information with the SBA’s authorized representatives, including authorized representatives of the SBA Office of Inspector General, for the purpose of compliance with SBA Loan Program Requirements and all SBA reviews. |
 | _Notes_ | \*Payroll Costs <br/> -   Includes-salary, wages, commissions, tips, PTO, health insurance, retirement benefits and local employment taxes for U.S.-based employee, capped at $100,000 annualized per employee <br/> - Excludes-Non US based employees <br/> \**Alternative Calculations Methods <br/> -   Companies Not in Business on June 30, 2019 — To use a measurement period of January 1, 2020 - February 29, 2020. <br/> - Seasonal Employers —   Can use a measurement period of either (i) the 12-week period beginning February 15, 2019, or (ii) March 1, 2019 - June 30, 2019, instead of the one-year period leading up to loan origination. <br/>  <br/>  |
 
 ## How to apply
 
 ### Application Process
 
-- Right now, the best way to get the process started is to reach out directly to eligible lender banks, which you can find [here](https://www.sba.gov/funding-programs/loans/paycheck-protection-program) if you do not already have a relationship with an eligible lender.
+- Right now, the best way to get the process started is to reach out directly to eligible lender banks
+  - If you do not have an existing relationship with one, you can find one  [here](https://www.sba.gov/funding-programs/loans/paycheck-protection-program)
+  - Note that most lenders will require you to setup a small business account in order to begin the application process.
 - The SBA has said loans will start Friday, April 3rd
 
 ### Application Requirements
 
-- Sample requirements are now available [here](https://home.treasury.gov/system/files/136/Paycheck-Protection-Program-Application-3-30-2020-v3.pdf)
+ A sample of the foundational form is now available [here](https://home.treasury.gov/system/files/136/Paycheck-Protection-Program-Application-3-30-2020-v3.pdf)
+
 - all owners with more than 20% ownership must participate in application (via attestation of questions)
+
+At highest level, need to show
+
+- The existence of your business before Feb 15
+- Your Eligibility for the loan - for both SBA & Bank
+- The supporting documents to support loan size
+  - Payroll Costs
+    - Salary, Wages, Tips, Leave, Benefits
+  - Other qualified operating expenses
+    - statements regarding existing loans and mortgages
+    - statements for rent and utilities
+
+To substantiate the claims in the document, we recommend that start to assemble:
+
+- Quarterly Payroll IRS filing - Form 941
+- Articles of incorporation
+- Tax Return
+  - Ideally 2019, but can use 2018 If have it
+- Bank statements
+  - At least from Nov 2019 to Feb 2020
+    - Ideally FY 2019 and Jan + Feb 2020
+- Any statements regarding non-payroll expenses
+- For newer businesses that do not have previous relationships with qualified lenders, they may be required to provide further documentation around
+  - founder’s personal finances
+  - the business structure and plan
