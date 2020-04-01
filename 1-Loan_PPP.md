@@ -47,7 +47,7 @@ __However, the TL;DR is__
 ### Application Process
 
 - Right now, the best way to get the process started is to reach out directly to eligible lender banks
-  - If you do not have an existing relationship with one, you can find one  [here](https://www.sba.gov/funding-programs/loans/paycheck-protection-program)
+  - If you do not have an existing relationship with one, you can find one  [here](https://www.sba.gov/funding-programs/loans/paycheck-protection-program) - we recommend you try to find a preferred (PLP) lender
   - Note that most lenders will require you to setup a small business account in order to begin the application process.
 - The SBA has said loans will start Friday, April 3rd
 
