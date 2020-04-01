@@ -3,12 +3,13 @@
 While information and interpretation are evolving quickly, here are some great resources we used to help put together our guide
 
 ## The Bill
+
 [Full Bill](https://www.congress.gov/bill/116th-congress/senate-bill/3548/text)
 
 [NVCA Synthesis of the Bill](https://nvca.org/wp-content/uploads/2020/03/CARES-Section-by-Section-FINAL.pdf)
 
-
 ## Law firm Overviews
+
 [Goodwin Law](https://www.goodwinlaw.com/publications/2020/03/03\_26-us-senate-passes-cares-act)
 _Best resource for detailed and structured PPP Loan guidance_
 
@@ -30,28 +31,30 @@ _good for tax guidance_
 [Cooley](https://www.cooley.com/news/insight/2020/2020-03-29-sba-programs-under-cares-act)
 
 ## Other Guides
+
 [Krost](https://www.krostcpas.com/news/the-economic-injury-disaster-loan-eidl-program-vs-the-paycheck-protection-program-ppp)
 _great guide on EIDL vs SBA loans_
 
-[ COVID-19 Financial Assistance Guide for Startups by Dan Sawney](https://askalmanac.com/articles/13941/covid-19-financial-assistance-guide-for-startups)
+[COVID-19 Financial Assistance Guide for Startups by Dan Sawney](https://askalmanac.com/articles/13941/covid-19-financial-assistance-guide-for-startups)
 
 [Small Business Lending Facility for Venture-Backed Companies by Neil Dugal](https://www.notion.so/Small-Business-Lending-Facility-for-Venture-Backed-Companies-5d7a5eb993f94d6789f95259aed76cd5)
 
-[US Senate's SBE guide for small business owners ](https://sbecouncil.org/wp-content/uploads/2020/03/Senate-Small-Business-Committee-Guide-to-the-CARES-Act.pdf)
+[US Senate's SBE guide for small business owners](https://sbecouncil.org/wp-content/uploads/2020/03/Senate-Small-Business-Committee-Guide-to-the-CARES-Act.pdf)
 
 [Treasury Department Borrower Guide](https://home.treasury.gov/system/files/136/PPP%20Borrower%20Information%20Fact%20Sheet.pdf)
 
-
 ## Reference Items For Specific Topics
+
 [NVCA's memo on affiliation](https://nvca.org/wp-content/uploads/2020/03/VC-SBA-Lending-and-Affiliation-Guidance-for-SBA-Loan-Programs.pdf)
 
 [SBA's guide to affiliation](https://www.sba.gov/sites/default/files/affiliation_ver_03.pdf)
 
-[SBA's size standards ](https://www.sba.gov/document/support--affiliation-guide-size-standards)
+[SBA's size standards](https://www.sba.gov/document/support--affiliation-guide-size-standards)
 
 [SBA's PPP page](https://www.sba.gov/funding-programs/loans/paycheck-protection-program)
 
 ## Misc Resource Portals
+
 [NVCA Portal](https://nvca.org/nvca-response-to-covid-19/)
 
 [SBA Portal](https://www.sba.gov/disaster-assistance/coronavirus-covid-19)

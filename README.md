@@ -36,7 +36,7 @@ We Recommend that all our portfolio companies __consider first and foremost the 
 - No collateral requirements
 - No requirement to tie damage directly to COVID-19
 
-__We recommend that our founders get ready immediately__
+### We recommend that our founders get ready immediately
 
 - Get your [form](https://home.treasury.gov/system/files/136/Paycheck-Protection-Program-Application-3-30-2020-v3.pdf) ready
 - Start to prepare the proper documentation (which can be found on Neil Dugal’s suggested list of requirements [here](https://www.notion.so/Get-Ready-aea15aa847dd48d9b24816cf3f8f04f0))
@@ -45,7 +45,7 @@ __We recommend that our founders get ready immediately__
     - Documentation on mortgage, rent and utility payments
 - Reach out to approved SBA lenders immediately (which can be found via the SBA’s [matching tool](https://www.sba.gov/funding-programs/loans/lender-match))
 
-__For those founder's worried about eligibility__
+### For those founder's worried about eligibility
 
 There are still questions around how the affiliation rules will be applied (discussed [here](A2-Affiliation_Control.md)).
 

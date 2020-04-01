@@ -1,11 +1,14 @@
 
 # Tax Relief
+
 ## Tax Credits
+
 ### Overview
 
 The CARES act has a provision that provides a credit for 50% payroll taxes for eligible employees paid by employers during the COVID-19 crisis.
 
 ### Who is Eligible
+
 - Businesses whose operations were fully or partially suspended due to the COVID-19 related shutdown order
 OR
 - Businesses whose gross receipts declined by more than 50% in 1Q2020 when compared to 1Q2019
@@ -13,6 +16,7 @@ AND
 - Businesses who have not received a loan via EIDL or PPP programs
 
 ### What is available
+
 <table>
 <thead>
 <tr class="header">
@@ -34,7 +38,7 @@ AND
 </tr>
 <tr class="odd">
 <td>Scope of Wages</td>
-<td>wages paid or incurred<br />
+<td> Wages paid or incurred<br />
 from March 13, 2020 through December 31, 2020</td>
 <td>wages paid or incurred<br />
 from March 13, 2020 through December 31, 2020</td>
@@ -43,22 +47,26 @@ from March 13, 2020 through December 31, 2020</td>
 </table>
 
 ### How to apply
+
 As of now, the IRS has not provided guidance as to how to apply.
 
-
 ## Tax Deferral
+
 ### Overview
+
 The CARES act has a provision that allows for partial the deferral of payment of employer payroll taxes for the remainder of 2020.
 
 ### Who is eligible
-All businesses, as long as they do not participate in the CARES act loan programs
 
+All businesses, as long as they do not participate in the CARES act loan programs
 
 ### What is available
 
 For payroll taxes from March 27, 2020 to January 1, 2021
+
 - 50% of employer portion of social security taxes are deferred until December 31, 2021
 - 50% of employer portion of social security taxes are deferred until December 31, 2022
 
 ### How to apply
-Employers can begin to reduce their payrol deposits immediately, and report their reductions on their 2Q2020 Form 941 - information is [here](https://www.irs.gov/newsroom/irs-employee-retention-credit-available-for-many-businesses-financially-impacted-by-covid-19)
+
+Employers can begin to reduce their payroll deposits immediately, and report their reductions on their 2Q2020 Form 941 - information is [here](https://www.irs.gov/newsroom/irs-employee-retention-credit-available-for-many-businesses-financially-impacted-by-covid-19)
