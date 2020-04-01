@@ -26,6 +26,9 @@ While information and interpretation are evolving quickly, here are some great r
 
 [Treasury Department Borrower Guide](https://home.treasury.gov/system/files/136/PPP%20Borrower%20Information%20Fact%20Sheet.pdf)
 
+[Chamber of Commerce Guide](https://www.uschamber.com/sites/default/files/023595_comm_corona_virus_smallbiz_loan_final.pdf)
+
+
 ### Application Tools
 
 [SBA's size standards](https://www.sba.gov/document/support--affiliation-guide-size-standards)
