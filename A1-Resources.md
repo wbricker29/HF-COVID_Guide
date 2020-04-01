@@ -39,6 +39,9 @@ _great guide on EIDL vs SBA loans_
 
 [US Senate's SBE guide for small business owners ](https://sbecouncil.org/wp-content/uploads/2020/03/Senate-Small-Business-Committee-Guide-to-the-CARES-Act.pdf)
 
+[Treasury Department Borrower Guide](https://home.treasury.gov/system/files/136/PPP%20Borrower%20Information%20Fact%20Sheet.pdf)
+
+
 ## Reference Items For Specific Topics
 [NVCA's memo on affiliation](https://nvca.org/wp-content/uploads/2020/03/VC-SBA-Lending-and-Affiliation-Guidance-for-SBA-Loan-Programs.pdf)
 
@@ -54,3 +57,5 @@ _great guide on EIDL vs SBA loans_
 [SBA Portal](https://www.sba.gov/disaster-assistance/coronavirus-covid-19)
 
 [US Senate SBE Portal](https://sbecouncil.org/2020/03/30/protecting-your-business-in-the-coronavirus-economy/)
+
+[Treasury Department Portal](https://home.treasury.gov/policy-issues/top-priorities/cares-act/assistance-for-small-businesses)

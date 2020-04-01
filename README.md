@@ -15,7 +15,7 @@ At the core of this guide is outlining the available financial aide options for 
 
 | Item | Program | High Level Details | How to Apply |
 | --- | --- | --- | --|
-| [Loan via CARES Act/PPP](1-Loan_PPP.md) | Paycheck Protection Program (CARES act sections 1101-1107) | A loan for __operating expenses only__ <br/> - 250% of average monthly payroll expenses up to $10mm <br/> - Available to __many__ venture backed startups -__Possible__ forgiveness| Reach out to eligible lenders (if you dont have one you can find one [here](https://www.sba.gov/funding-programs/loans/lender-match)) |
+| [Loan via CARES Act/PPP](1-Loan_PPP.md) | Paycheck Protection Program (CARES act sections 1101-1107) | A loan for __operating expenses only__ <br/> - 250% of average monthly payroll expenses up to $10mm <br/> - Available to __many__ venture backed startups -__Possible__ forgiveness| Reach out to eligible lenders (if you dont have one you can find one [here](https://www.sba.gov/funding-programs/loans/lender-match))<br/><br/>The initial form can be found [here](https://home.treasury.gov/system/files/136/Paycheck-Protection-Program-Application-3-30-2020-v3.pdf) |
 | [Loan via EIDL](2-Loan_EIDL.md) | Economic Injury Disaster Loans (EIDLS) | A loan for __operating and non-operating expenses__ <br/> - $2mm max, based on XYZ <br/> - Available to __some__ startups <br/> -__No__ forgiveness | [Here](https://covid19relief.sba.gov/#/)
 | [Tax Relief](3-Tax_Relief.md) | CARES act sections 2301,2302 | Options to either <br/>  - defer 2020 payroll tax payment over the next two years <br/>- receive a 50% credit for payroll taxes for certain employers and employees  | TBD
 
