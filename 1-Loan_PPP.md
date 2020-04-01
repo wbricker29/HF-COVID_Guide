@@ -81,3 +81,5 @@ To substantiate the claims in the document, we recommend that start to assemble:
 - For newer businesses that do not have previous relationships with qualified lenders, they may be required to provide further documentation around
   - founder’s personal finances
   - the business structure and plan
+
+Example of Chase's Business account requirements [here](https://www.chase.com/content/dam/chasecom/en/business-banking/documents/corporation-checklist.pdf)
