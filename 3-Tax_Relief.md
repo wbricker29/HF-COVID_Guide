@@ -61,4 +61,4 @@ For payroll taxes from March 27, 2020 to January 1, 2021
 - 50% of employer portion of social security taxes are deferred until December 31, 2022
 
 ### How to apply
-As of now, the IRS has not provided guidance as to how to apply.
+Employers can begin to reduce their payrol deposits immediately, and report their reductions on their 2Q2020 Form 941 - information is [here](https://www.irs.gov/newsroom/irs-employee-retention-credit-available-for-many-businesses-financially-impacted-by-covid-19)
