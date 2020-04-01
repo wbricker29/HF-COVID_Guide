@@ -3,6 +3,7 @@
 ## What's new
 
 4/1
+
 - Further guidance from SBA & Banks on documentation requirements (below in recommendation section and on our [PPP Page](1-Loan_PPP.md))
 
 3/31
@@ -12,11 +13,12 @@
   - 75%+ of proceeds must go to payroll
 - sample application [form](https://home.treasury.gov/system/files/136/Paycheck-Protection-Program-Application-3-30-2020-v3.pdf)
 
-
+----
 
 ## Our Recommendation
 
 ### Look at the PPP Loan First
+
 We Recommend that all our portfolio companies __consider first and foremost the PPP loan__. We believe it has the most favorable terms for our founders
 
 - Potential forgiveness for approved payroll usage (up to 100% of principle)
@@ -25,7 +27,7 @@ We Recommend that all our portfolio companies __consider first and foremost the 
 - No requirement to tie damage directly to COVID-19
 - Rates of 0.5%
 
-### get ready immediately for April 3 Application Opening
+### Get ready immediately for April 3 Application Opening
 
 - Get your [form](https://home.treasury.gov/system/files/136/Paycheck-Protection-Program-Application-3-30-2020-v3.pdf) ready
 - Find a preferred (PLP) SBA lender, and if you don't have a business account with them, start setting one up ASAP (SBA has temporarily redirected traffic away from lender match tool)
@@ -42,7 +44,6 @@ We Recommend that all our portfolio companies __consider first and foremost the 
     - Founder’s personal finances
     - The business structure and plan
 
-
 ### For those founder's worried about eligibility
 
 There are still questions around how the affiliation rules will be applied (discussed [here](A2-Affiliation_Control.md)).
@@ -51,6 +52,7 @@ However, we recommend that for those founders who have investment structures wit
 > it may be possible to amend governing documents to mitigate any control rights that are considered high risk for creating affiliation prior to submitting the SBA loan application.
 
 ----
+
 ## Guide Intro
 
 Most people have heard about the  Coronavirus Aid, Relief, and Economic Security (CARES) Act by now – the $2 trillion stimulus bill passed by the US government to help businesses and individuals impacted by the Coronavirus epidemic.
@@ -71,7 +73,7 @@ At the core of this guide is outlining the available financial aide options for 
 | [Loan via EIDL](2-Loan_EIDL.md) | Economic Injury Disaster Loans (EIDLS) | A loan for __operating and non-operating expenses__ <br/> - $2mm max, based on XYZ <br/> - Available to __some__ startups <br/> -__No__ forgiveness | [Here](https://covid19relief.sba.gov/#/)
 | [Tax Relief](3-Tax_Relief.md) | CARES act sections 2301,2302 | Options to either <br/>  - defer 2020 payroll tax payment over the next two years <br/>- receive a 50% credit for payroll taxes for certain employers and employees  | effective immediately, info [here](https://www.irs.gov/newsroom/irs-employee-retention-credit-available-for-many-businesses-financially-impacted-by-covid-19)
 
-In addition we provide
+In addition we provide:
 
 - Some helpful [resources](A1-Resources.md) we have found during our research
 - A high level overview of one of the key questions around PPP loan qualification - [Control and Affiliation](A2_Affiliation_Control.md)
