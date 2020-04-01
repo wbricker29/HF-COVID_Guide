@@ -50,7 +50,7 @@ _currently offline_
 
 ### Great alternatives to this guide
 
-[COVID-19 Financial Assistance Guide for Startups by Dan Sawney](https://askalmanac.com/articles/13941/covid-19-financial-assistance-guide-for-startups)
+[Intro VC's Guide](https://intro.indie.vc/sba)
 
 [Small Business Lending Facility for Venture-Backed Companies by Neil Dugal](https://www.notion.so/Small-Business-Lending-Facility-for-Venture-Backed-Companies-5d7a5eb993f94d6789f95259aed76cd5)
 
