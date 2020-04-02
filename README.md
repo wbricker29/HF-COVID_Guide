@@ -7,7 +7,7 @@
 - guidance on eligible employees
 - updates on our recommendations for founders
 - expansion of FAQ
-
+- Updated loan terms - now 1%
 4/1
 
 - Further guidance from SBA & Banks on documentation requirements (below in recommendation section and on our [PPP Page](1-Loan_PPP.md))
@@ -31,13 +31,13 @@ We Recommend that all our portfolio companies __consider first and foremost the 
 - No personal guarantee
 - No collateral requirements
 - No requirement to tie damage directly to COVID-19
-- Rates of 0.5%
+- Rate and Term
 
 ### Get ready to apply NOW
 
 #### Find a lender if you don't already have a relationship with one
 
-The process will not be smooth for lenders, whether they are currently or approved or not. This represents a huge expansion of the existing program: 
+The process will not be smooth for lenders, whether they are currently or approved or not. This represents a huge expansion of the existing program:
 
 - ~15x 2019 Deployment to be executed over several weeks
 - the onboarding of new partners and new processes
@@ -50,7 +50,7 @@ Try to get your spot in line now with a lender that can provide you the quickest
 #### Get your form an associated documents together
 
 - Get your [form](https://home.treasury.gov/system/files/136/Paycheck-Protection-Program-Application-3-30-2020-v3.pdf) ready
-- Start to prepare the proper documentation 
+- Start to prepare the proper documentation
   - Expected materials include:
     - Quarterly Payroll IRS filing - Form 941
     - Articles of incorporation
@@ -71,12 +71,14 @@ Try to get your spot in line now with a lender that can provide you the quickest
 ### Understand the implications of your application
 
 #### You will have to adhere to all certifications in the form
+
 This includes
+
 - Retaining employee and wage levels
   - forgiveness  will be reduced if there is a decrease in in the number of employees or wages in excess of 25% of total wages during the period.
   - Employers must bring back employees terminated from Feb 15 to April 27 before June 30th
 - That current economic uncertainty makes the loan necessary to support your ongoing operations.
-- That you have not and will not receive another loan under this program. 
+- That you have not and will not receive another loan under this program.
 
 #### You will have to account for use of all proceeds
 
@@ -101,7 +103,7 @@ A lot remains unknown, and information is constantly evolving. As of now, the bi
 
 What we do know is that certain negative rights by investors on day-to-day operations may trigger the affiliation rules.
 
-Thus, we recommend that founders __discuss with their investors the possibility of changing applicable covenants to enhance your eligibility.__ 
+Thus, we recommend that founders __discuss with their investors the possibility of changing applicable covenants to enhance your eligibility.__
 
 As of now, negative clauses around day-to-day operations that likely would impact affiliation are (Per [NVCA Guidance](https://nvca.org/wp-content/uploads/2020/03/VC-SBA-Lending-and-Affiliation-Guidance-for-SBA-Loan-Programs.pdf)):
 
@@ -121,7 +123,7 @@ As of now, negative clauses around day-to-day operations that likely would impac
 
 ## Guide Intro
 
-Most people have heard about the  Coronavirus Aid, Relief, and Economic Security (CARES) Act by now – the $2 trillion stimulus bill passed by the US government to help businesses and individuals impacted by the Coronavirus epidemic.
+Most people have heard about the  COVID-19 Aid, Relief, and Economic Security (CARES) Act by now – the $2 trillion stimulus bill passed by the US government to help businesses and individuals impacted by the COVID-19 epidemic.
 
 However, at Hustle Fund, we have seen founders and investing partners have less clarity on what this bill means for them, and how they can or cannot participate.
 
@@ -135,7 +137,7 @@ At the core of this guide is outlining the available financial aide options for 
 
 | **Item** | **High Level Details** |
 | --- | --- |
-| [Loan via CARES Act/PPP](1-Loan_PPP.md) <br/> (CARES act sections 1101-1107) | - For **operating** expenses (Payroll + Current Interest/Utilities/Rent) <br/>- **Amount** : 250% of average monthly operating expenses ($10mm Cap) <br/> - **Terms** : 0.5% for 2 years <br/> - Possible forgiveness |
+| [Loan via CARES Act/PPP](1-Loan_PPP.md) <br/> (CARES act sections 1101-1107) | - For **operating** expenses (Payroll + Current Interest/Utilities/Rent) <br/>- **Amount** : 250% of average monthly operating expenses ($10mm Cap) <br/> - **Terms** : 1% for 2 years <br/> - Possible forgiveness |
 | [Loan via EIDL](2-Loan_EIDL.md) (Economic Injury Disaster Loans) | - For **operating** &amp; **non-operating** expenses <br/> - **Amount** : $2mm Max, dependent on the applicant's demonstrated economic injury and ability to repay <br/> - **Terms** : Max 4% Interest, Maturity up to 30 Years <br/> - No forgiveness |
 | [Tax Relief](3-Tax_Relief.md) (CARES act sections 2301,2302) | Options to either <br/> - defer 2020 payroll tax payment over the next two years <br/> - receive a 50% credit for payroll taxes for certain employers and employees |
 

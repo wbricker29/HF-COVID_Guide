@@ -2,7 +2,9 @@
 
 We wanted to make space to directly answer the questions we are getting. This will be updated as new questions come in.
 
-## Do you guys know if affiliation rule applies to start ups who have only raised via SAFEs (from angels and VCs), which have not been converted?
+## on the PPP Program
+
+### Do you guys know if affiliation rule applies to start ups who have only raised via SAFEs (from angels and VCs), which have not been converted?
 
 Yes, they do.
 
@@ -11,38 +13,42 @@ The vehicle of ownership, and whether it has been realized or not, does not impa
 > SBA treats stock options, convertible securities, and agreements to merge as though the rights granted have been actually exercised.
 _from the SBA [guide](https://www.sba.gov/sites/default/files/2018-09/2018-07-13%20AFFILIATION%20GUIDE_Updated%20%281%29.pdf) on Affiliation; "When may SBA find affiliation based on stock options, convertible securities, and agreements to merge (13 C.F.R. § 121.103(d))? "_
 
-## Can anyone comment on the payroll tax credit (50% of the first $10,000 per employee?)and payroll tax deferment that I believe is separate from the payroll related loans? Is there an application for this credit or is it automatic?
-
-As of now, the IRS has not provided guidance on how to apply for the tax credits. (3/29)
-
-## Do you know if financial services (lending) startups can qualify?
+### Do you know if financial services (lending) startups can qualify?
 
 Yes, financial service firms are eligible for the program. (3/29)
 
-
-## As a business, are my 1099 contractors considered my employees?
+### As a business, are my 1099 contractors considered my employees?
 
 We have heard all answers to this. Our recommendation would be to collect your 1099 forms and discuss with your lender during the application just in case it is possible.
 
-However, there is a good chance they will not be eligible given 
+However, there is a good chance they will not be eligible given:
+
 - the separate process for 1099 contractors starting April 10th [Per Treasury Guidance](https://home.treasury.gov/system/files/136/PPP--Fact-Sheet.pdf)
-- the current available information from the SBA on how they define what constitutes an employee [here](https://www.sba.gov/sites/default/files/files/SizePolicyStatementNo1.pdf) 
+- the current available information from the SBA on how they define what constitutes an employee [here](https://www.sba.gov/sites/default/files/files/SizePolicyStatementNo1.pdf)
 
 (4/2)
 
-## Is the 100k/year cap per employee or per business
+### Is the 100k/year cap per employee or per business
 
-if you are a small business, it is per employee.
-if you are a sole proprietor/independent contractor, it is on your total gross income. 
+If you are a small business, it is per employee.
+if you are a sole proprietor/independent contractor, it is on your total gross income.
 
 (4/2)
 
-## Can I apply for and EIDL and PPP Loan?
+### Can I apply for and EIDL and PPP Loan?
 
 Yes, as long as you do not use them for the same thing (EG. use EIDL loan on payroll that you have used to apply for PPP loan)
 > You cannot use your PPP loan for the same purpose as your other SBA loan(s). If you accept the EIDL loan, and you subsequently qualify for the PPP loan, you can re-finance the EIDL loan with the PPP loan.
 [Krost](https://www.krostcpas.com/news/the-economic-injury-disaster-loan-eidl-program-vs-the-paycheck-protection-program-ppp)
 
-## Do my employees need to be based in the US to counted in my application?
+### Do my employees need to be based in the US to counted in my application?
 
-Yes. 
+Yes.
+
+----
+
+## Other Questions
+
+### Can anyone comment on the payroll tax credit (50% of the first $10,000 per employee?)and payroll tax deferment that I believe is separate from the payroll related loans? Is there an application for this credit or is it automatic?
+
+As of now, the IRS has not provided guidance on how to apply for the tax credits. (3/29)
