@@ -22,9 +22,11 @@ Yes, financial service firms are eligible for the program. (3/29)
 
 ## As a business, are my 1099 contractors considered my employees?
 
-In most cases, No, they are not. They will be eligible to apply for themselves separately starting April 10th. 
-- [Per SBA Employee definition](https://www.sba.gov/sites/default/files/files/SizePolicyStatementNo1.pdf)
-- [Per Treasury Guidance](https://home.treasury.gov/system/files/136/PPP--Fact-Sheet.pdf)
+We have heard all answers to this. Our recommendation would be to collect your 1099 forms and discuss with your lender during the application just in case it is possible.
+
+However, there is a good chance they will not be eligible given 
+- the separate process for 1099 contractors starting April 10th [Per Treasury Guidance](https://home.treasury.gov/system/files/136/PPP--Fact-Sheet.pdf)
+- the current available information from the SBA on how they define what constitutes an employee [here](https://www.sba.gov/sites/default/files/files/SizePolicyStatementNo1.pdf) 
 
 (4/2)
 
