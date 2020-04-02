@@ -18,3 +18,29 @@ As of now, the IRS has not provided guidance on how to apply for the tax credits
 ## Do you know if financial services (lending) startups can qualify?
 
 Yes, financial service firms are eligible for the program. (3/29)
+
+
+## As a business, are my 1099 contractors considered my employees?
+
+In most cases, No, they are not. They will be eligible to apply for themselves separately starting April 10th. 
+- [Per SBA Employee definition](https://www.sba.gov/sites/default/files/files/SizePolicyStatementNo1.pdf)
+- [Per Treasury Guidance](https://home.treasury.gov/system/files/136/PPP--Fact-Sheet.pdf)
+
+(4/2)
+
+## Is the 100k/year cap per employee or per business
+
+if you are a small business, it is per employee.
+if you are a sole proprietor/independent contractor, it is on your total gross income. 
+
+(4/2)
+
+## Can I apply for and EIDL and PPP Loan?
+
+Yes, as long as you do not use them for the same thing (EG. use EIDL loan on payroll that you have used to apply for PPP loan)
+> You cannot use your PPP loan for the same purpose as your other SBA loan(s). If you accept the EIDL loan, and you subsequently qualify for the PPP loan, you can re-finance the EIDL loan with the PPP loan.
+[Krost](https://www.krostcpas.com/news/the-economic-injury-disaster-loan-eidl-program-vs-the-paycheck-protection-program-ppp)
+
+## Do my employees need to be based in the US to counted in my application?
+
+Yes. 
