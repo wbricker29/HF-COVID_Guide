@@ -2,13 +2,16 @@
 
 ## What's new
 
+4/2
+- guidance on eligible employees, our recommendations for founders
+
 4/1
 
 - Further guidance from SBA & Banks on documentation requirements (below in recommendation section and on our [PPP Page](1-Loan_PPP.md))
 
 3/31
 
-- Got official guidance from [treasury](https://home.treasury.gov/policy-issues/top-priorities/cares-act/assistance-for-small-businesses) and [SBA](https://www.sba.gov/funding-programs/loans/paycheck-protection-program-ppp#section-header-4) on PPP loan
+- Got official guidance from [Treasury](https://home.treasury.gov/policy-issues/top-priorities/cares-act/assistance-for-small-businesses) and [SBA](https://www.sba.gov/funding-programs/loans/paycheck-protection-program-ppp#section-header-4) on PPP loan
   - 0.5% interest, 2 year term
   - 75%+ of proceeds must go to payroll
 - sample application [form](https://home.treasury.gov/system/files/136/Paycheck-Protection-Program-Application-3-30-2020-v3.pdf)
@@ -27,29 +30,51 @@ We Recommend that all our portfolio companies __consider first and foremost the 
 - No requirement to tie damage directly to COVID-19
 - Rates of 0.5%
 
-### Get ready immediately for April 3 Application Opening
+### Find your Lender and get your documents ready immediately
 
-- Get your [form](https://home.treasury.gov/system/files/136/Paycheck-Protection-Program-Application-3-30-2020-v3.pdf) ready
 - Find a preferred (PLP) SBA lender, and if you don't have a business account with them, start setting one up ASAP (SBA has temporarily redirected traffic away from lender match tool)
-- Start to prepare the proper documentation (more [here](1-Loan_PPP.md))
-  - Quarterly Payroll IRS filing - Form 941
-  - Articles of incorporation
-  - Tax Return
-    - Ideally 2019, but can use 2018 If have it
-  - Bank statements
-    - At least from Nov 2019 to Feb 2020
+- Get your [form](https://home.treasury.gov/system/files/136/Paycheck-Protection-Program-Application-3-30-2020-v3.pdf) ready
+- Start to prepare the proper documentation 
+
+  - Expected materials include:
+    - Quarterly Payroll IRS filing - Form 941
+    - Articles of incorporation
+    - Tax Return
+      - At least 2018
+      - Ideally 2019
+    - Bank statements
+      - At least from Nov 2019 to Feb 2020
       - Ideally FY 2019 and Jan + Feb 2020
-  - Any statements regarding non-payroll expenses
-  - For newer businesses that do not have previous relationships with qualified lenders, they may be required to provide further documentation around
-    - Founder’s personal finances
-    - The business structure and plan
+    - Any statements regarding non-payroll expenses
+    - Payroll service report if your payroll has fluctuated
+    - (Probably) Bylaws and Partnership Agreements
+    - (Possibly) W2 & 1099 for each employee
+- For newer businesses that do not have previous relationships with qualified lenders, they may be required to provide further documentation around
+  - Founder’s personal finances
+  - The business structure and plan
+
 
 ### For those founder's worried about eligibility
 
-There are still questions around how the affiliation rules will be applied (discussed [here](A2-Affiliation_Control.md)).
+A lot remains unknown, and information is constantly evolving. As of now, the biggest questions for venture backed startups are around size requirements and the affiliation clause (discussed [here](A2-Affiliation_Control.md)).
 
-However, we recommend that for those founders who have investment structures with negative rights covenants that could impact your eligibility (EG. veto rights) it may be __prudent to discuss with your investors the possibility of changing these covenants to enhance your eligibility.__ Per [NVCA Guidance](https://nvca.org/wp-content/uploads/2020/03/VC-SBA-Lending-and-Affiliation-Guidance-for-SBA-Loan-Programs.pdf), where you can also find a list of the most likely rights to impact your eligibility:
-> it may be possible to amend governing documents to mitigate any control rights that are considered high risk for creating affiliation prior to submitting the SBA loan application.
+What we do know is that certain negative rights by investors on day-to-day operations may trigger the affiliation rules.
+
+Thus, we recommend that founders __discuss with their investors the possibility of changing applicable covenants to enhance your eligibility.__ 
+
+As of now, negative clauses around day-to-day operations that likely would impact affiliation are (Per [NVCA Guidance](https://nvca.org/wp-content/uploads/2020/03/VC-SBA-Lending-and-Affiliation-Guidance-for-SBA-Loan-Programs.pdf)):
+
+- Making, declaring, or paying distributions or dividends other than tax distributions
+- Establishing a quorum at a meeting of stockholders (and likely, by extension, at a meeting of the board)
+- Approving or making changes to the company’s budget or approving capital expenditures outside the budget
+- Determining employee compensation
+- Hiring and firing officers and executives.
+- Blocking changes in the company’s strategic direction.
+- Establishing or amending an incentive or employee stock ownership plan.
+- Incurring or guaranteeing debts or obligations.
+- Initiating or defending a lawsuit.
+- Entering contracts or joint ventures.
+- Amending or terminating leases.
 
 ----
 
@@ -67,11 +92,11 @@ __Please note, none of this information constitutes legal or financial advice. Y
 
 At the core of this guide is outlining the available financial aide options for startups
 
-| Item | Program | High Level Details | How to Apply |
-| --- | --- | --- | --|
-| [Loan via CARES Act/PPP](1-Loan_PPP.md) | Paycheck Protection Program (CARES act sections 1101-1107) | A loan for __operating expenses only__ <br/> - 250% of average monthly payroll expenses up to $10mm <br/> - Available to __many__ venture backed startups -__Possible__ forgiveness| Reach out to eligible lenders (if you don't have one you can find one [here](https://www.sba.gov/funding-programs/loans/lender-match))<br/><br/>The initial form can be found [here](https://home.treasury.gov/system/files/136/Paycheck-Protection-Program-Application-3-30-2020-v3.pdf) |
-| [Loan via EIDL](2-Loan_EIDL.md) | Economic Injury Disaster Loans (EIDLS) | A loan for __operating and non-operating expenses__ <br/> - $2mm max, requires thorough demonstration of impact <br/> - Available to __some__ startups <br/> -__No__ forgiveness | [Here](https://covid19relief.sba.gov/#/)
-| [Tax Relief](3-Tax_Relief.md) | CARES act sections 2301,2302 | Options to either <br/>  - defer 2020 payroll tax payment over the next two years <br/>- receive a 50% credit for payroll taxes for certain employers and employees  | effective immediately, info [here](https://www.irs.gov/newsroom/irs-employee-retention-credit-available-for-many-businesses-financially-impacted-by-covid-19)
+| **Item** | **High Level Details** |
+| --- | --- |
+| [Loan via CARES Act/PPP](1-Loan_PPP.md) <br/> (CARES act sections 1101-1107) | - For **operating** expenses (Payroll + Current Interest/Utilities/Rent) <br/>- **Amount** : 250% of average monthly operating expenses ($10mm Cap) <br/> - **Terms** : 0.5% for 2 years <br/> - Possible forgiveness |
+| [Loan via EIDL](2-Loan_EIDL.md) (Economic Injury Disaster Loans) | - For **operating** &amp; **non-operating** expenses <br/> - **Amount** : $2mm Max, dependent on the applicant's demonstrated economic injury and ability to repay <br/> - **Terms** : Max 4% Interest, Maturity up to 30 Years <br/> - No forgiveness |
+| [Tax Relief](3-Tax_Relief.md) (CARES act sections 2301,2302) | Options to either <br/> - defer 2020 payroll tax payment over the next two years <br/> - receive a 50% credit for payroll taxes for certain employers and employees |
 
 In addition we provide:
 
@@ -79,4 +104,3 @@ In addition we provide:
 - A high level overview of one of the key questions around PPP loan qualification - [Control and Affiliation](A2_Affiliation_Control.md)
 - A side by side [comparison](A3-PPP_EIDL_Compare.md) of EIDL And PPP Loans
 - An [FAQ](A4-FAQ.md) that we will try to keep updated
-

@@ -2,9 +2,9 @@
 
 ## TL;DR
 
-__For founding teams with greater than 50% ownership - you should be eligible__
+At the highest level - affiliation is unclear, and the business community is continuing to seek clarity on affiliation and rules and their application for the PPP program.
 
-__For teams where this does not apply, we are hopeful that we will get clarity around how the two definitions of "common interest" and "disproportionate ownership" will be interpreted  going forward.__
+However, as of right now, our best guess is that __For founding teams with greater than 50% ownership & no day-to-day negative rights for investors - affiliation rights should not apply__
 
 ## What is the Affiliation and why does it matter
 
@@ -33,7 +33,7 @@ This clearly poses a challenge for both venture firms and their portfolio compan
 
 The biggest potential blockers to eligibility are:
 
-- The existence of negative rights covenants (such as veto rights) on controlling decisions
+- The existence of negative rights covenants (such as veto rights) on day-to-day operations (see [NVCA guide](https://nvca.org/wp-content/uploads/2020/03/VC-SBA-Lending-and-Affiliation-Guidance-for-SBA-Loan-Programs.pdf) on affiliation for rights that may impact affiliation)
 - The interpretation by the SBA of:
   - Common interests (what parties on the cap table are deemed to have common interests, and thus control)
   - Disproportionate ownership (what amount of ownership qualifies as disproportionate) by the SBA
