@@ -10,18 +10,12 @@
 - expansion of FAQ
 - Updated loan terms - now 1%
 - updated link for lender match tool
-
+- [new guidelines out](https://home.treasury.gov/system/files/136/PPP--IFRN%20FINAL.pdf) (not yet reflected here)
 
 4/1
 
-- Further guidance from SBA & Banks on documentation requirements (below in recommendation section and on our [PPP Page](1-Loan_PPP.md))
+- Further guidance from SBA & Banks on documentation requirements 
 
-3/31
-
-- Got official guidance from [Treasury](https://home.treasury.gov/policy-issues/top-priorities/cares-act/assistance-for-small-businesses) and [SBA](https://www.sba.gov/funding-programs/loans/paycheck-protection-program-ppp#section-header-4) on PPP loan
-  - 0.5% interest, 2 year term
-  - 75%+ of proceeds must go to payroll
-- sample application [form](https://home.treasury.gov/system/files/136/Paycheck-Protection-Program-Application-3-30-2020-v3.pdf)
 
 ----
 
@@ -101,6 +95,9 @@ There are two relevant caps to remember
 Here is a high level example
 
 ![Forgiveness Example](Forgiveness.jpg)
+
+_intro VC has created a [google doc](https://docs.google.com/spreadsheets/d/1RL-yqNeLQzMwCi08hsJRzS-6I4m7C7TfMrnv-SmAH2w/edit#gid=1299986469) to help model forgiveness, have not verified accuracy_
+
 
 ### For those founder's worried about eligibility
 
