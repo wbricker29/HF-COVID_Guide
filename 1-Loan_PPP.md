@@ -22,10 +22,9 @@ At the most basic level, The provision of loans to eligible businesses
 
 *Please note – defining who controls your business is a key question in understanding your eligibility. We have tried to Provide further clarity [Here](A2-Affiliation_Control.md).
 
-
-
 __However, the TL;DR is__
 if the founding group:
+
 - owns a majority (>50%) or a disproportionate stake
 - does not have investors with negative rights on day-to-day operations
 
@@ -59,7 +58,7 @@ the size requirement applies to only the given company, not the larger set of co
 
 ### Application Requirements
 
- A sample of the foundational form is now available [here](https://home.treasury.gov/system/files/136/Paycheck-Protection-Program-Application-3-30-2020-v3.pdf)
+ Form is out [here](https://home.treasury.gov/system/files/136/Paycheck-Protection-Program-Application-3-30-2020-v3.pdf)
 
 - all owners with more than 20% ownership must participate in application (via attestation of questions)
 

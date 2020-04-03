@@ -1,10 +1,18 @@
 # Hustle Fund COVID-19 US Relief Guide
 
 ----
-## What's new
-_can also find on [twitter](https://twitter.com/will_bricker)_
-### 4/2 (last updated 9 PM PST)
 
+## What's new
+
+_can also find on [twitter](https://twitter.com/will_bricker)_
+
+
+### 4/3
+Rocky start to the program, while treasury is reporting +$800mm in loans, unclear who is getting them and through what lenders
+
+
+
+### 4/2 
 - guidance on eligible employees (salaried vs 1099)
 - eligible loan amount clarifications
 - updates on our recommendations for founders
@@ -16,10 +24,21 @@ _can also find on [twitter](https://twitter.com/will_bricker)_
   - 1099 contractors officially do not count for small business employee count
   - 75% of loan must be used on payroll (in addition to limitations of 75% forgiveness earlier)
   - removes requirement for lender to verify documentation
-- new form out 
-  -  mostly just formatting changes and rewording to align with interim rule
+- new form out
+  - mostly just formatting changes and rewording to align with interim rule
 
+## Note on Resources
 
+There is a lot of speculation out there. The most reliable resources are from the SBA & Treasury:
+[Treasury Department Portal](https://home.treasury.gov/policy-issues/top-priorities/cares-act/assistance-for-small-businesses)
+
+- [Treasury Department Borrower Guide](https://home.treasury.gov/system/files/136/PPP%20Borrower%20Information%20Fact%20Sheet.pdf)
+- [Treasury Interim Rule](https://home.treasury.gov/system/files/136/PPP--IFRN%20FINAL.pdf)
+
+- [SBA Portal](https://www.sba.gov/disaster-assistance/coronavirus-covid-19)
+  - [SBA PPP Page](https://www.sba.gov/funding-programs/loans/coronavirus-relief-options/paycheck-protection-program-ppp)
+  - [SBA Form](https://www.sba.gov/sites/default/files/2020-04/PPP%20Borrower%20Application%20Form.pdf)
+  
 ----
 
 ## Our Recommendation
