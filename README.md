@@ -3,7 +3,7 @@
 ----
 ## What's new
 _can also find on [twitter](https://twitter.com/will_bricker)_
-### 4/2
+### 4/2 (last updated 9 PM PST)
 
 - guidance on eligible employees (salaried vs 1099)
 - eligible loan amount clarifications
