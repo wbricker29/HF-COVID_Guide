@@ -4,11 +4,14 @@
 
 4/2
 
-- guidance on eligible employees
+- guidance on eligible employees (salaried vs 1099)
+- eligible loan amount clarifications
 - updates on our recommendations for founders
 - expansion of FAQ
 - Updated loan terms - now 1%
-- updated lender match tool
+- updated link for lender match tool
+
+
 4/1
 
 - Further guidance from SBA & Banks on documentation requirements (below in recommendation section and on our [PPP Page](1-Loan_PPP.md))
