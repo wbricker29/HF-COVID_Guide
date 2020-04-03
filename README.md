@@ -8,6 +8,7 @@
 - updates on our recommendations for founders
 - expansion of FAQ
 - Updated loan terms - now 1%
+- updated lender match tool
 4/1
 
 - Further guidance from SBA & Banks on documentation requirements (below in recommendation section and on our [PPP Page](1-Loan_PPP.md))
@@ -45,7 +46,8 @@ The process will not be smooth for lenders, whether they are currently or approv
 
 Try to get your spot in line now with a lender that can provide you the quickest path to getting your loan
 
-- Find a preferred (PLP) SBA lender, and if you don't have a business account with them, start setting one up ASAP (SBA has temporarily redirected traffic away from lender match tool)
+- Find a preferred (PLP) SBA lender, and if you don't have a business account with them, start setting one up ASAP 
+  - Find a lender [here](https://www.sba.gov/paycheckprotection/find)
 
 #### Get your form an associated documents together
 
