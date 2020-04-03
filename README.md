@@ -7,8 +7,11 @@
 _can also find on [twitter](https://twitter.com/will_bricker)_
 
 
-### 4/3
+### 4/3 ( as of 11 AM)
 Rocky start to the program, while treasury is reporting +$800mm in loans, unclear who is getting them and through what lenders
+- B of A is accepting applications, but must have existing account, credit card, and previous loan
+- Currently sitting out - FRB, Wells Fargo, Citi
+- Chase - participating, but site is crashing
 
 
 
