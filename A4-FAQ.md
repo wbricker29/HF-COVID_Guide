@@ -19,12 +19,10 @@ Yes, financial service firms are eligible for the program. (3/29)
 
 ### As a business, are my 1099 contractors considered my employees?
 
-We have heard all answers to this. Our recommendation would be to collect your 1099 forms and discuss with your lender during the application just in case it is possible.
-
-However, there is a good chance they will not be eligible given:
-
-- the separate process for 1099 contractors starting April 10th [Per Treasury Guidance](https://home.treasury.gov/system/files/136/PPP--Fact-Sheet.pdf)
-- the current available information from the SBA on how they define what constitutes an employee [here](https://www.sba.gov/sites/default/files/files/SizePolicyStatementNo1.pdf)
+No, they are not. Per [Treasury guidance](https://home.treasury.gov/system/files/136/PPP--IFRN%20FINAL.pdf):
+>_Do independent contractors count as employees for purposes of PPP loan calculations?_ <br/> 
+No, independent contractors have the ability to apply for a PPP loan on their own
+so they do not count for purposes of a borrower’s PPP loan calculation. 
 
 (4/2)
 

@@ -10,7 +10,11 @@
 - expansion of FAQ
 - Updated loan terms - now 1%
 - updated link for lender match tool
-- [new guidelines out](https://home.treasury.gov/system/files/136/PPP--IFRN%20FINAL.pdf) (not yet reflected here)
+- [new guidelines out](https://home.treasury.gov/system/files/136/PPP--IFRN%20FINAL.pdf)
+  - deferral is maximum 6 months
+  - 1099 contractors officially do not count for small business employee count
+  - 75% of loan must be used on payroll (in addition to limitations of 75% forgiveness earlier)
+  - removes requirement for lender to verify documentation
 
 4/1
 

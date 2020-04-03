@@ -41,7 +41,7 @@ the size requirement applies to only the given company, not the larger set of co
 | _Calculation Window_ | For most businesses <br/> - 12 months before loan is made <br/> For seasonal employers  <br/>  - 12 week period from 2/15/19 to 5/10/19 <br/>-  OR 3/1/2019 to 6/30/2019 <br/>For businesses not in existence from 2/15/2019 to 6/30/2019) <br/> - 1/1/20-2/29/20  |
 | _Eligible Calculation Expenses_ |  NOTE: AT THE END OF THE DAY, THIS IS AT THE DISCRETION OF THE LENDER <br/> __Payroll__<br/> Includes (For US-based employee, capped at 100k/yr)<br/> _salary, wages, commissions, tips, PTO, health insurance, retirement benefits and local employment taxes_ <br/> Excludes<br/> _Non US based employees, 1099 Independent Contractors_ <br/> <br/>__Select Operating Expenses__<br/>(required to have existed prior to 2/15/20)<br/> mortgage & outstanding debt interest payments, rent, and utilities|
 | __Fees & Penalties__ | No fee taken by SBA <br/> No prepayment penalty |
-| __Payment Deferral__ | Deferrable for minimum of 6 months, maximum of 1 year |
+| __Payment Deferral__ | 6 Months (with interest accrual) |
 | __Collateral & Guarantee Requirements__ | None |
 | __Recourse__ | None for approved use of proceeds |
 | __Use of Proceeds__ | - payroll costs (salaries, wages, commissions, benefits )  <br/> -  mortgage & outstanding debt interest payments (that existed prior to February 15, 2020), rent, and utilities |
