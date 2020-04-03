@@ -31,6 +31,8 @@ so they do not count for purposes of a borrower’s PPP loan calculation.
 If you are a small business, it is per employee.
 if you are a sole proprietor/independent contractor, it is on your total gross income.
 
+[Per Treasury PPP Rule ](https://home.treasury.gov/system/files/136/PPP--IFRN%20FINAL.pdf)
+
 (4/2)
 
 ### Can I apply for and EIDL and PPP Loan?
@@ -42,6 +44,20 @@ Yes, as long as you do not use them for the same thing (EG. use EIDL loan on pay
 ### Do my employees need to be based in the US to counted in my application?
 
 Yes.
+[Per Treasury PPP Rule ](https://home.treasury.gov/system/files/136/PPP--IFRN%20FINAL.pdf)
+
+### Wait, what are payroll costs?
+>Payroll costs consist of compensation to employees (whose principal place of
+residence is the United States) in the form of salary, wages, commissions, or
+similar compensation; cash tips or the equivalent (based on employer records of
+past tips or, in the absence of such records, a reasonable, good-faith employer
+estimate of such tips); payment for vacation, parental, family, medical, or sick
+leave; allowance for separation or dismissal; payment for the provision of
+employee benefits consisting of group health care coverage, including insurance
+premiums, and retirement; payment of state and local taxes assessed on
+compensation of employees;
+
+[Per Treasury PPP Rule ](https://home.treasury.gov/system/files/136/PPP--IFRN%20FINAL.pdf)
 
 ----
 

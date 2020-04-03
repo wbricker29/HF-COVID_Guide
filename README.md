@@ -1,8 +1,9 @@
 # Hustle Fund COVID-19 US Relief Guide
 
+----
 ## What's new
-
-4/2
+_can also find on [twitter](https://twitter.com/will_bricker)_
+### 4/2
 
 - guidance on eligible employees (salaried vs 1099)
 - eligible loan amount clarifications
@@ -10,15 +11,13 @@
 - expansion of FAQ
 - Updated loan terms - now 1%
 - updated link for lender match tool
-- [new guidelines out](https://home.treasury.gov/system/files/136/PPP--IFRN%20FINAL.pdf)
+- [Treasury interim rule out](https://home.treasury.gov/system/files/136/PPP--IFRN%20FINAL.pdf)
   - deferral is maximum 6 months
   - 1099 contractors officially do not count for small business employee count
   - 75% of loan must be used on payroll (in addition to limitations of 75% forgiveness earlier)
   - removes requirement for lender to verify documentation
-
-4/1
-
-- Further guidance from SBA & Banks on documentation requirements 
+- new form out 
+  -  mostly just formatting changes and rewording to align with interim rule
 
 
 ----
