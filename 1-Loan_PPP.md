@@ -20,7 +20,7 @@ At the most basic level, The provision of loans to eligible businesses
 | Company Size | For franchises and hospitality businesses (NAICS code 72 "accommodation and food services") with multiple locations <br/> - that employ more than 500 employees as an organization, but no more than 500 employees at any given location <br/> <br/> For other Businesses <br/> - Controlling entity employs less than 500 Employees (full-time, part time otherwise)* <br/>- Companies that are smaller than the [existing size standard](https://www.sba.gov/document/support--table-size-standards) |
 | Eligible employees for consideration (For small businesses| All individuals employed on a full-time, part-time, or other basis <br/> - Includes - employees obtained from a temporary employee agency, professional employee organization, or leasing concern <br/> - Excludes - in most cases, independent contractors [per SBA employee definitions](https://www.sba.gov/sites/default/files/files/SizePolicyStatementNo1.pdf) who will be able to apply via separate process per [Treasury](https://home.treasury.gov/system/files/136/PPP--Fact-Sheet.pdf)  |
 
-*Please note – defining who controls your business is a key question in understanding your eligibility. We have tried to Provide further clarity [Here](A2-Affiliation_Control.md).
+*Please note – defining who controls your business is a key question in understanding your eligibility. Guidance is still pending.
 
 __However, the TL;DR is__
 if the founding group:

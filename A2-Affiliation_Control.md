@@ -34,9 +34,7 @@ This clearly poses a challenge for both venture firms and their portfolio compan
 The biggest potential blockers to eligibility are:
 
 - The existence of negative rights covenants (such as veto rights) on day-to-day operations (see [NVCA guide](https://nvca.org/wp-content/uploads/2020/03/VC-SBA-Lending-and-Affiliation-Guidance-for-SBA-Loan-Programs.pdf) on affiliation for rights that may impact affiliation)
-- The interpretation by the SBA of:
-  - Common interests (what parties on the cap table are deemed to have common interests, and thus control)
-  - Disproportionate ownership (what amount of ownership qualifies as disproportionate) by the SBA
+
 
 While we are still waiting for further clarity on affiliation rules,  below is a rough outline of who would be defined as controller for a scenario where a company has 2 founders, 2 venture investors, and other investors (who each hold less than 5%)
 
