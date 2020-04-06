@@ -25,7 +25,7 @@ At the most basic level, The provision of loans to eligible businesses
 __However, the TL;DR is__
 if the founding group:
 
-- owns a majority (>50%) or a disproportionate stake
+- owns a majority (>50%) of equity and voting rights, and would retain that ownership through the exercising of convertible securities
 - does not have investors with negative rights on day-to-day operations
 
 the size requirement applies to only the given company, not the larger set of companies held by investors.
@@ -60,8 +60,6 @@ the size requirement applies to only the given company, not the larger set of co
 
  Form is out [here](https://home.treasury.gov/system/files/136/Paycheck-Protection-Program-Application-3-30-2020-v3.pdf)
 
-- all owners with more than 20% ownership must participate in application (via attestation of questions)
-
 At highest level, need to show
 
 - The existence of your business before Feb 15
@@ -75,16 +73,26 @@ At highest level, need to show
 
 To substantiate the claims in the document, we recommend that start to assemble:
 
-- Quarterly Payroll IRS filing - Form 941
-- Articles of incorporation
-- Tax Return
-  - Ideally 2019, but can use 2018 If have it
-- Bank statements
-  - At least from Nov 2019 to Feb 2020
+- Expected materials include:
+  - Quarterly Payroll IRS filing - Form 941 
+    - at least all 4 quarters of 2019
+    - Ideally Last 5 quarters (2019+1Q2020)
+  - Articles of incorporation
+  - Tax Return
+    - At least 2018
+    - Ideally 2019
+  - Bank statements
+    - At least from Nov 2019 to Feb 2020
     - Ideally FY 2019 and Jan + Feb 2020
-- Any statements regarding non-payroll expenses
+  - Any statements regarding non-payroll expenses
+  - Payroll service report if your payroll has fluctuated
+  - (Probably) Bylaws and Partnership Agreements
+  - (Possibly) W2 & 1099 for each employee
 - For newer businesses that do not have previous relationships with qualified lenders, they may be required to provide further documentation around
-  - founder’s personal finances
-  - the business structure and plan
+  - Founder’s personal finances
+  - The business structure and plan
 
-Example of Chase's Business account requirements [here](https://www.chase.com/content/dam/chasecom/en/business-banking/documents/corporation-checklist.pdf)
+
+Example Requirements
+- [FRB](https://www.firstrepublic.com/resource/sba-ppp)
+- [SVB](https://www.svb.com/paycheck-protection-program)

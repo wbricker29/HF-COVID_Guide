@@ -51,23 +51,28 @@ We Recommend that all our portfolio companies __consider first and foremost the 
 
 #### Find a lender if you don't already have a relationship with one
 
-The process will not be smooth for lenders, whether they are currently or approved or not. This represents a huge expansion of the existing program:
+The process will not be smooth for lenders, whether they are currently approved or not. This represents a huge expansion of the existing program:
 
 - ~15x 2019 Deployment to be executed over several weeks
 - the onboarding of new partners and new processes
 - the definition of many parts of the program is still unclear
 
 Try to get your spot in line now with a lender that can provide you the quickest path to getting your loan
+- If you __already have an existing relationship__ with a lender or an entity that is eligible to become one, go there first 
+  - lenders are prioritizing existing clients first
+  - the requirements to become an approved lender have been relaxed, so many entities will be joining the program
+- if you __do not have an existing relationship with a lender__, find a lender that is accepting new customers
+  - partial list can be found [here](https://docs.google.com/spreadsheets/d/1wHQrkf0ElDVnEEWJOahr3E6eMsxyZIvPRrpMdjlr37g/edit#gid=0)
+- While the SBA has a [lender math tool](https://www.sba.gov/paycheckprotection/find) to help find a lender, as of now it is not providing reliable results
 
-- Find a preferred (PLP) SBA lender, and if you don't have a business account with them, start setting one up ASAP
-  - Find a lender [here](https://www.sba.gov/paycheckprotection/find)
-
-#### Get your form an associated documents together
+#### Get your form and associated documents together
 
 - Get your [form](https://home.treasury.gov/system/files/136/Paycheck-Protection-Program-Application-3-30-2020-v3.pdf) ready
-- Start to prepare the proper documentation
+- Start to prepare the proper documentation (will vary slightly depending on lender)
   - Expected materials include:
-    - Quarterly Payroll IRS filing - Form 941
+    - Quarterly Payroll IRS filing - Form 941 
+      - at least all 4 quarters of 2019
+      - Ideally Last 5 quarters (2019+1Q2020)
     - Articles of incorporation
     - Tax Return
       - At least 2018
