@@ -6,45 +6,27 @@
 
 _can also find on [twitter](https://twitter.com/will_bricker)_
 
-
-
 ### 4/6
-- [Treasury comes out with interim rule on affiliation](https://home.treasury.gov/system/files/136/SBA%20IFR%202.pdf)  and [Guidance on affiliation](https://home.treasury.gov/system/files/136/Affiliation%20rules%20overview%20%28for%20public%29.pdf)
+
+- [Treasury comes out with interim rule on affiliation](https://home.treasury.gov/system/files/136/SBA%20IFR%202.pdf) and [guidance on affiliation](https://home.treasury.gov/system/files/136/Affiliation%20rules%20overview%20%28for%20public%29.pdf)
   - Points affiliation definition towards  [13 CFR 121.301](https://www.ecfr.gov/cgi-bin/text-idx?SID=7655ef612afd00fe4fba93bfe9122ae7&mc=true&node=se13.1.121_1301&rgn=div8) f
     - effectively narrows definition down to equity stake and negative rights provisions (removes common interest and disproportionate ownership clauses)
 
 ### 4/3 ( as of 11 AM)
-Rocky start to the program, while treasury is reporting +$3.2 Bil in loans, unclear who is getting them and through what lenders
+
+Rocky start to the program, while treasury is reporting +$3.2 Bn in loans, unclear who is getting them and through what lenders
 
 - [list here of people who are lending](https://heavy.com/news/2020/04/apply-payroll-protection-program-sba-covid-19/)
 - B of A is accepting applications, but must have existing account, credit card, and previous loan (this is the mitigation of current portfolio risk we were worried about)
 - Currently sitting out - FRB, Wells Fargo, Citi, Capital One, Chase
 - Rumored to be participating & executing - [First Home Bank](https://www.firsthomebank.com/sbarelief/)  
 
-
-### 4/2 
-- guidance on eligible employees (salaried vs 1099)
-- eligible loan amount clarifications
-- updates on our recommendations for founders
-- expansion of FAQ
-- Updated loan terms - now 1%
-- updated link for lender match tool
-- [Treasury interim rule out](https://home.treasury.gov/system/files/136/PPP--IFRN%20FINAL.pdf)
-  - deferral is maximum 6 months
-  - 1099 contractors officially do not count for small business employee count
-  - 75% of loan must be used on payroll (in addition to limitations of 75% forgiveness earlier)
-  - removes requirement for lender to verify documentation
-- new form out
-  - mostly just formatting changes and rewording to align with interim rule
-
 ## Note on Resources
 
 There is a lot of speculation out there. The most reliable resources are from the SBA & Treasury:
-[Treasury Department Portal](https://home.treasury.gov/policy-issues/top-priorities/cares-act/assistance-for-small-businesses)
 
-- [Treasury Department Borrower Guide](https://home.treasury.gov/system/files/136/PPP%20Borrower%20Information%20Fact%20Sheet.pdf)
-- [Treasury Interim Rule](https://home.treasury.gov/system/files/136/PPP--IFRN%20FINAL.pdf)
-
+- [Treasury Department Portal](https://home.treasury.gov/policy-issues/top-priorities/cares-act/assistance-for-small-businesses)
+  - [Treasury Department Borrower Guide](https://home.treasury.gov/system/files/136/PPP%20Borrower%20Information%20Fact%20Sheet.pdf)
 - [SBA Portal](https://www.sba.gov/disaster-assistance/coronavirus-covid-19)
   - [SBA PPP Page](https://www.sba.gov/funding-programs/loans/coronavirus-relief-options/paycheck-protection-program-ppp)
   - [SBA Form](https://www.sba.gov/sites/default/files/2020-04/PPP%20Borrower%20Application%20Form.pdf)
@@ -75,7 +57,7 @@ The process will not be smooth for lenders, whether they are currently or approv
 
 Try to get your spot in line now with a lender that can provide you the quickest path to getting your loan
 
-- Find a preferred (PLP) SBA lender, and if you don't have a business account with them, start setting one up ASAP 
+- Find a preferred (PLP) SBA lender, and if you don't have a business account with them, start setting one up ASAP
   - Find a lender [here](https://www.sba.gov/paycheckprotection/find)
 
 #### Get your form an associated documents together
@@ -130,10 +112,9 @@ Here is a high level example
 
 _intro VC has created a [google doc](https://docs.google.com/spreadsheets/d/1RL-yqNeLQzMwCi08hsJRzS-6I4m7C7TfMrnv-SmAH2w/edit#gid=1299986469) to help model forgiveness, have not verified accuracy_
 
-
 ### For those founder's worried about eligibility
 
-A lot remains unknown, and information is constantly evolving. As of now, the biggest questions for venture backed startups are around size requirements and the affiliation clause (discussed [here](A2-Affiliation_Control.md)).
+A lot remains unknown, and information is constantly evolving. As of now, the biggest questions for venture backed startups are around size requirements and the affiliation clause.
 
 What we do know is that certain negative rights by investors on day-to-day operations may trigger the affiliation rules.
 
