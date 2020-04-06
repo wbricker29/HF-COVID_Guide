@@ -9,8 +9,8 @@ _can also find on [twitter](https://twitter.com/will_bricker)_
 
 
 ### 4/6
-- [Treasury comes out with guidance on affiliation](https://home.treasury.gov/system/files/136/SBA%20IFR%202.pdf) 
-  - Points affiliation definition towards  [13 CFR 121.301](https://www.ecfr.gov/cgi-bin/text-idx?SID=7655ef612afd00fe4fba93bfe9122ae7&mc=true&node=se13.1.121_1301&rgn=div8) for affiliation definition 
+- [Treasury comes out with interim rule on affiliation](https://home.treasury.gov/system/files/136/SBA%20IFR%202.pdf)  and [Guidance on affiliation](https://home.treasury.gov/system/files/136/Affiliation%20rules%20overview%20%28for%20public%29.pdf)
+  - Points affiliation definition towards  [13 CFR 121.301](https://www.ecfr.gov/cgi-bin/text-idx?SID=7655ef612afd00fe4fba93bfe9122ae7&mc=true&node=se13.1.121_1301&rgn=div8) f
     - effectively narrows definition down to equity stake and negative rights provisions (removes common interest and disproportionate ownership clauses)
 
 ### 4/3 ( as of 11 AM)
