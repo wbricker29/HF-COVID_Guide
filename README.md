@@ -11,8 +11,7 @@ _can also find on [twitter](https://twitter.com/will_bricker)_
 - [Treasury comes out with interim rule on affiliation](https://home.treasury.gov/system/files/136/SBA%20IFR%202.pdf) and [guidance on affiliation](https://home.treasury.gov/system/files/136/Affiliation%20rules%20overview%20%28for%20public%29.pdf)
   - Points affiliation definition towards  [13 CFR 121.301](https://www.ecfr.gov/cgi-bin/text-idx?SID=7655ef612afd00fe4fba93bfe9122ae7&mc=true&node=se13.1.121_1301&rgn=div8) f
     - effectively narrows definition down to equity stake and negative rights provisions (removes common interest and disproportionate ownership clauses)
-- updating our affiliation section;  in the meantime, great resource [here](https://www.lowenstein.com/news-insights/publications/client-alerts/sba-section-7-a-loans-for-venture-capital-backed-growth-companiesstartups-under-the-cares-act-the-tech-group)
-
+- updated our information based on that guidance
 
 ### 4/3 ( as of 11 AM)
 
@@ -58,6 +57,7 @@ The process will not be smooth for lenders, whether they are currently approved 
 - the definition of many parts of the program is still unclear
 
 Try to get your spot in line now with a lender that can provide you the quickest path to getting your loan
+
 - If you __already have an existing relationship__ with a lender or an entity that is eligible to become one, go there first 
   - lenders are prioritizing existing clients first
   - the requirements to become an approved lender have been relaxed, so many entities will be joining the program
@@ -166,4 +166,5 @@ At the core of this guide is outlining the available financial aide options for 
 In addition we provide:
 
 - Some helpful [resources](A1-Resources.md) we have found during our research
+- A deep dive into control, [affiliation](A2-Affiliation_Control.md), and its implications for VC-backed companies
 - An [FAQ](A4-FAQ.md) that we will try to keep updated

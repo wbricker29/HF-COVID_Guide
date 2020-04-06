@@ -20,15 +20,15 @@ At the most basic level, The provision of loans to eligible businesses
 | Company Size | For franchises and hospitality businesses (NAICS code 72 "accommodation and food services") with multiple locations <br/> - that employ more than 500 employees as an organization, but no more than 500 employees at any given location <br/> <br/> For other Businesses <br/> - Controlling entity employs less than 500 Employees (full-time, part time otherwise)* <br/>- Companies that are smaller than the [existing size standard](https://www.sba.gov/document/support--table-size-standards) |
 | Eligible employees for consideration (For small businesses| All individuals employed on a full-time, part-time, or other basis <br/> - Includes - employees obtained from a temporary employee agency, professional employee organization, or leasing concern <br/> - Excludes - in most cases, independent contractors [per SBA employee definitions](https://www.sba.gov/sites/default/files/files/SizePolicyStatementNo1.pdf) who will be able to apply via separate process per [Treasury](https://home.treasury.gov/system/files/136/PPP--Fact-Sheet.pdf)  |
 
-*Please note – defining who controls your business is a key question in understanding your eligibility. Guidance is still pending.
+*Please note – defining who controls your business is a key question in understanding your eligibility. Things are still less clear than we would like when it comes to defining any controlling interests. Given what guidance and interpretations we have seen ([discussed here](A2-Affiliation_Control.md)) our understanding is that 
 
-__However, the TL;DR is__
+
 if the founding group:
 
-- owns a majority (>50%) of equity and voting rights, and would retain that ownership through the exercising of convertible securities
+- owns a majority (>50%) of equity voting rights, and would retain that ownership through the exercising of convertible securities
 - does not have investors with negative rights on day-to-day operations
 
-the size requirement applies to only the given company, not the larger set of companies held by investors.
+the size requirement applies to only the applicant company (not its investors or entities it investor controls)
 
 ## What is available?
 
