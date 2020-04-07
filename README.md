@@ -7,7 +7,7 @@
 _can also find on [twitter](https://twitter.com/will_bricker)_
 
 ### 4/7 (3:30 PM PST)
-- Treasury updates [FAQ](https://home.treasury.gov/system/files/136/Paycheck-Protection-Program-Frequenty-Asked-Questions.pdf) \
+- Treasury updates [FAQ](https://home.treasury.gov/system/files/136/Paycheck-Protection-Program-Frequenty-Asked-Questions.pdf) 
   - some clarification around 
     - affiliation - amendment of negative rights that would trigger affiliation OK as long as irrevocable
     - payroll calc - cap is on 100k of salary
@@ -119,9 +119,6 @@ There are two relevant caps to remember
 - the maximum amount of the lone that can be applied to non-payroll operating expenses is 25%
   - __Impact__ -  your loan may not be fully forgivable even if you use it on qualified operating expenses
 
-Here is a high level example
-
-![Forgiveness Example](Forgiveness.jpg)
 
 _intro VC has created a [google doc](https://docs.google.com/spreadsheets/d/1RL-yqNeLQzMwCi08hsJRzS-6I4m7C7TfMrnv-SmAH2w/edit#gid=1299986469) to help model forgiveness, have not verified accuracy_
 
