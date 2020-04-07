@@ -6,7 +6,7 @@
 
 _can also find on [twitter](https://twitter.com/will_bricker)_
 
-### 4/7
+### 4/7 (10:30 AM PST)
 - Treasury updates [FAQ](https://home.treasury.gov/system/files/136/Paycheck-Protection-Program-Frequenty-Asked-Questions.pdf) around affiliation 
 
 ### 4/6
@@ -15,15 +15,6 @@ _can also find on [twitter](https://twitter.com/will_bricker)_
   - Points affiliation definition towards  [13 CFR 121.301](https://www.ecfr.gov/cgi-bin/text-idx?SID=7655ef612afd00fe4fba93bfe9122ae7&mc=true&node=se13.1.121_1301&rgn=div8) f
     - effectively narrows definition down to equity stake and negative rights provisions (removes common interest and disproportionate ownership clauses)
 - updated our information based on that guidance
-
-### 4/3 ( as of 11 AM)
-
-Rocky start to the program, while treasury is reporting +$3.2 Bn in loans, unclear who is getting them and through what lenders
-
-- [list here of people who are lending](https://heavy.com/news/2020/04/apply-payroll-protection-program-sba-covid-19/)
-- B of A is accepting applications, but must have existing account, credit card, and previous loan (this is the mitigation of current portfolio risk we were worried about)
-- Currently sitting out - FRB, Wells Fargo, Citi, Capital One, Chase
-- Rumored to be participating & executing - [First Home Bank](https://www.firsthomebank.com/sbarelief/)  
 
 ## Note on Resources
 
