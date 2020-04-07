@@ -51,6 +51,10 @@ While information and interpretation are evolving quickly, here are some great r
 
 [Lowenstein & Sandler guide on affiliation and VC-backed startups](https://www.lowenstein.com/news-insights/publications/client-alerts/sba-section-7-a-loans-for-venture-capital-backed-growth-companiesstartups-under-the-cares-act-the-tech-group)
 
+
+- Treasury [FAQ](https://home.treasury.gov/system/files/136/Paycheck-Protection-Program-Frequenty-Asked-Questions.pdf) around affiliation 
+
+
 ### Great alternatives to this guide
 
 [Intro VC's Guide](https://intro.indie.vc/sba)

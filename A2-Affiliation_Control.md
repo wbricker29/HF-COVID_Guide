@@ -40,6 +40,7 @@ Certain businesses have had the affiliation rules waived:
 However, for all other entities, the guidance in [13 C.F.R. § 121.301(f)](https://www.ecfr.gov/cgi-bin/text-idx?SID=7655ef612afd00fe4fba93bfe9122ae7&mc=true&node=se13.1.121_1301&rgn=div8) applies. According to 
 - [Treasury's Interim Final Rule](https://home.treasury.gov/system/files/136/SBA%20IFR%202.pdf)
 - [Treasury's Affiliation Guide](https://home.treasury.gov/system/files/136/Affiliation%20rules%20overview%20%28for%20public%29.pdf)
+- Treasury's [FAQ](https://home.treasury.gov/system/files/136/Paycheck-Protection-Program-Frequenty-Asked-Questions.pdf) around affiliation 
 
 Given this guidance, according to [Lowenstein & Sandler](https://www.lowenstein.com/news-insights/publications/client-alerts/sba-section-7-a-loans-for-venture-capital-backed-growth-companiesstartups-under-the-cares-act-the-tech-group)*, affiliation exists for any entity that:
 

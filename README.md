@@ -6,6 +6,9 @@
 
 _can also find on [twitter](https://twitter.com/will_bricker)_
 
+### 4/7
+- Treasury updates [FAQ](https://home.treasury.gov/system/files/136/Paycheck-Protection-Program-Frequenty-Asked-Questions.pdf) around affiliation 
+
 ### 4/6
 
 - [Treasury comes out with interim rule on affiliation](https://home.treasury.gov/system/files/136/SBA%20IFR%202.pdf) and [guidance on affiliation](https://home.treasury.gov/system/files/136/Affiliation%20rules%20overview%20%28for%20public%29.pdf)
