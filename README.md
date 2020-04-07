@@ -6,11 +6,13 @@
 
 _can also find on [twitter](https://twitter.com/will_bricker)_
 
-### 4/7 (3:30 PM PST)
+### 4/7 (4:30 PM PST)
 
 - Still reports of outages, and banks being overwhelmed. We know this is frustrating, let us know how we can help!
-- new [NVCA Application Guide](https://nvca.org/wp-content/uploads/2020/04/NVCA-PPP-Loan-Application-Guidance.pdf)
-- Trump announces he will ask for $250 bn more for program
+- New [NVCA Application Guide](https://nvca.org/wp-content/uploads/2020/04/NVCA-PPP-Loan-Application-Guidance.pdf)
+- Program updates
+  - Trump announces he will ask for $250 bn more for program 
+  - Looks like approximately $50 bn already spent of initial $350 bn (mostly this week)
 - Treasury updates [FAQ](https://home.treasury.gov/system/files/136/Paycheck-Protection-Program-Frequenty-Asked-Questions.pdf)
   - some clarification around
     - affiliation - amendment of negative rights that would trigger affiliation OK as long as irrevocable
