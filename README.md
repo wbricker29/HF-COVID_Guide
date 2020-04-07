@@ -7,15 +7,16 @@
 _can also find on [twitter](https://twitter.com/will_bricker)_
 
 ### 4/7 (3:30 PM PST)
-- Treasury updates [FAQ](https://home.treasury.gov/system/files/136/Paycheck-Protection-Program-Frequenty-Asked-Questions.pdf) 
-  - some clarification around 
+
+- Treasury updates [FAQ](https://home.treasury.gov/system/files/136/Paycheck-Protection-Program-Frequenty-Asked-Questions.pdf)
+  - some clarification around
     - affiliation - amendment of negative rights that would trigger affiliation OK as long as irrevocable
     - payroll calc - cap is on 100k of salary
       - not benefits, employee contributions
       - State and local taxes
     - ability to qualify by alternative standards if > 500 employees. Alternative standards (both of which must be met)
-      - 1. Max tang net worth <= $15M; and
-      - 2. Avg net inc after fed inc tax (excluding carry over losses) is <=$5M for two prior full yrs before application date.
+      - Max tangible net worth <= $15M; and
+      - Average net income after fed income tax (excluding carry over losses) is <=$5M for two prior full yrs before application date.
     - Some more lenient calculation window definition
   
 
@@ -62,21 +63,21 @@ The process will not be smooth for lenders, whether they are currently approved 
 
 Try to get your spot in line now with a lender that can provide you the quickest path to getting your loan
 
-- If you __already have an existing relationship__ with a lender or an entity that is eligible to become one, go there first 
+- If you __already have an existing relationship__ with a lender or an entity that is eligible to become one, go there first
   - lenders are prioritizing existing clients first
   - the requirements to become an approved lender have been relaxed, so many entities will be joining the program
 - if you __do not have an existing relationship with a lender__, find a lender that is accepting new customers
   - partial list can be found [here](https://docs.google.com/spreadsheets/d/1wHQrkf0ElDVnEEWJOahr3E6eMsxyZIvPRrpMdjlr37g/edit#gid=0)
-  - Gusto's list [here](https://docs.google.com/spreadsheets/d/1tzF2kJGjJtxkLxdWbKLfUtjJGfqGeL7V0dvzlextHJs/edit#gid=1030711345) 
+  - Gusto's list [here](https://docs.google.com/spreadsheets/d/1tzF2kJGjJtxkLxdWbKLfUtjJGfqGeL7V0dvzlextHJs/edit#gid=1030711345)
   - Lendio & Fundera are available as matching providers
-- While the SBA has a [lender math tool](https://www.sba.gov/paycheckprotection/find) to help find a lender, as of now it is not providing reliable results
+- While the SBA has a [lender match tool](https://www.sba.gov/paycheckprotection/find) to help find a lender, as of now it is not providing reliable results
 
 #### Get your form and associated documents together
 
 - Get your [form](https://home.treasury.gov/system/files/136/Paycheck-Protection-Program-Application-3-30-2020-v3.pdf) ready
 - Start to prepare the proper documentation (will vary slightly depending on lender)
   - Expected materials include:
-    - Quarterly Payroll IRS filing - Form 941 
+    - Quarterly Payroll IRS filing - Form 941
       - at least all 4 quarters of 2019
       - Ideally Last 5 quarters (2019+1Q2020)
     - Articles of incorporation
@@ -119,7 +120,6 @@ There are two relevant caps to remember
 - the maximum amount of the lone that can be applied to non-payroll operating expenses is 25%
   - __Impact__ -  your loan may not be fully forgivable even if you use it on qualified operating expenses
 
-
 _intro VC has created a [google doc](https://docs.google.com/spreadsheets/d/1RL-yqNeLQzMwCi08hsJRzS-6I4m7C7TfMrnv-SmAH2w/edit#gid=1299986469) to help model forgiveness, have not verified accuracy_
 
 ### For those founder's worried about eligibility
@@ -153,7 +153,7 @@ Most people have heard about the  COVID-19 Aid, Relief, and Economic Security (C
 
 However, at Hustle Fund, we have seen founders and investing partners have less clarity on what this bill means for them, and how they can or cannot participate.
 
- We decided to try to bring some clarity for our founders and the venture/startup community more broadly. We have tried to pull together as much information and resources as possible in this piece, and would love to hear your suggestions for what else would be helpful via pull requests or emailing us [here](mailto:deals@hustlefund.vc)
+ We decided to try to bring some clarity for our founders and the venture/startup community more broadly. We have tried to pull together as much information and resources as possible in this piece, and would love to hear your suggestions for what else would be helpful via pull requests or emailing us [here](mailto:deals@hustlefund.vc).
 
 __Please note, none of this information constitutes legal or financial advice. You should consult a legal representative to get information and guidance that is right for you.__
 
