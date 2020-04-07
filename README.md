@@ -6,16 +6,17 @@
 
 _can also find on [twitter](https://twitter.com/will_bricker)_
 
-### 4/7 (10:30 AM PST)
-- Treasury updates [FAQ](https://home.treasury.gov/system/files/136/Paycheck-Protection-Program-Frequenty-Asked-Questions.pdf) - NOT YET REFLECTED IN DOCUMENT
+### 4/7 (3:30 PM PST)
+- Treasury updates [FAQ](https://home.treasury.gov/system/files/136/Paycheck-Protection-Program-Frequenty-Asked-Questions.pdf) \
   - some clarification around 
-    - affiliation - amendment of negative rights that would trigger affiliation OK
+    - affiliation - amendment of negative rights that would trigger affiliation OK as long as irrevocable
     - payroll calc - cap is on 100k of salary
       - not benefits, employee contributions
       - State and local taxes
     - ability to qualify by alternative standards if > 500 employees. Alternative standards (both of which must be met)
       - 1. Max tang net worth <= $15M; and
       - 2. Avg net inc after fed inc tax (excluding carry over losses) is <=$5M for two prior full yrs before application date.
+    - Some more lenient calculation window definition
   
 
 ### 4/6
@@ -67,6 +68,7 @@ Try to get your spot in line now with a lender that can provide you the quickest
 - if you __do not have an existing relationship with a lender__, find a lender that is accepting new customers
   - partial list can be found [here](https://docs.google.com/spreadsheets/d/1wHQrkf0ElDVnEEWJOahr3E6eMsxyZIvPRrpMdjlr37g/edit#gid=0)
   - Gusto's list [here](https://docs.google.com/spreadsheets/d/1tzF2kJGjJtxkLxdWbKLfUtjJGfqGeL7V0dvzlextHJs/edit#gid=1030711345) 
+  - Lendio & Fundera are available as matching providers
 - While the SBA has a [lender math tool](https://www.sba.gov/paycheckprotection/find) to help find a lender, as of now it is not providing reliable results
 
 #### Get your form and associated documents together
@@ -145,6 +147,7 @@ As of now, negative clauses around day-to-day operations that likely would impac
 - Entering contracts or joint ventures.
 - Amending or terminating leases.
 
+Note: investors will have to irrevocably give up those rights.
 ----
 
 ## Guide Intro
