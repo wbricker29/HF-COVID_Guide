@@ -45,7 +45,11 @@ While information and interpretation are evolving quickly, here are some great r
 
 [NVCA's memo on affiliation](https://nvca.org/wp-content/uploads/2020/03/VC-SBA-Lending-and-Affiliation-Guidance-for-SBA-Loan-Programs.pdf)
 
-[SBA's guide to affiliation](https://www.sba.gov/sites/default/files/affiliation_ver_03.pdf)
+[Treasury's Interim Final Rule](https://home.treasury.gov/system/files/136/SBA%20IFR%202.pdf)
+
+[Treasury's Affiliation Guide](https://home.treasury.gov/system/files/136/Affiliation%20rules%20overview%20%28for%20public%29.pdf)
+
+[Lowenstein & Sandler guide on affiliation and VC-backed startups](https://www.lowenstein.com/news-insights/publications/client-alerts/sba-section-7-a-loans-for-venture-capital-backed-growth-companiesstartups-under-the-cares-act-the-tech-group)
 
 ### Great alternatives to this guide
 
