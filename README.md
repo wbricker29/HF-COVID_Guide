@@ -7,7 +7,16 @@
 _can also find on [twitter](https://twitter.com/will_bricker)_
 
 ### 4/7 (10:30 AM PST)
-- Treasury updates [FAQ](https://home.treasury.gov/system/files/136/Paycheck-Protection-Program-Frequenty-Asked-Questions.pdf) around affiliation 
+- Treasury updates [FAQ](https://home.treasury.gov/system/files/136/Paycheck-Protection-Program-Frequenty-Asked-Questions.pdf) - NOT YET REFLECTED IN DOCUMENT
+  - some clarification around 
+    - affiliation - amendment of negative rights that would trigger affiliation OK
+    - payroll calc - cap is on 100k of salary
+      - not benefits, employee contributions
+      - State and local taxes
+    - ability to qualify by alternative standards if > 500 employees. Alternative standards (both of which must be met)
+      - 1. Max tang net worth <= $15M; and
+      - 2. Avg net inc after fed inc tax (excluding carry over losses) is <=$5M for two prior full yrs before application date.
+  
 
 ### 4/6
 
