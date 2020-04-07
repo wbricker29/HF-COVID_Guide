@@ -8,6 +8,8 @@ _can also find on [twitter](https://twitter.com/will_bricker)_
 
 ### 4/7 (3:30 PM PST)
 
+- Still reports of outages, and banks being overwhelmed. We know this is frustrating, let us know how we can help!
+- Trump announces he will ask for $250 bn More for program
 - Treasury updates [FAQ](https://home.treasury.gov/system/files/136/Paycheck-Protection-Program-Frequenty-Asked-Questions.pdf)
   - some clarification around
     - affiliation - amendment of negative rights that would trigger affiliation OK as long as irrevocable
