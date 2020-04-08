@@ -12,9 +12,7 @@ However, as of right now, our best guess is that  affiliation will only apply to
   - [NVCA guide](https://nvca.org/wp-content/uploads/2020/03/VC-SBA-Lending-and-Affiliation-Guidance-for-SBA-Loan-Programs.pdf)
 - a common President or CEO (affiliation based on management)
 
-
-
-## What is the Affiliation and why does it matter
+## What is affiliation and why does it matter
 
 The key question people have been talking about is how the SBA’s existing Affiliation rules will be applied to small businesses seeking PPP aide.
 
@@ -51,6 +49,7 @@ Given this guidance, according to [Lowenstein & Sandler](https://www.lowenstein.
 - has a common President or CEO (affiliation based on management)
 
 *while no guidance is perfect, L&S and [Ed Zimmerman](https://twitter.com/EdGrapeNutZimm) have consistently been correct and ahead of the curve when it comes to affiliation
+
 ### Where will affiliation be applied with VC-backed companies
 Given this guidance and interpretation, our understanding is that if a VC does not have: 
 - +50% of voting rights currently
@@ -59,3 +58,24 @@ Given this guidance and interpretation, our understanding is that if a VC does n
 - a common executive (CEO/President)
 
 They are not affiliated with the company.
+
+
+### So what should you do?
+
+#### If you have negative covenants regarding day-to-day operations in your term sheets approach your investors about changing them now.
+
+As of now, our best guess on the negative clauses around day-to-day operations that would likely impact affiliation are (Per [NVCA Guidance](https://nvca.org/wp-content/uploads/2020/03/VC-SBA-Lending-and-Affiliation-Guidance-for-SBA-Loan-Programs.pdf)):
+
+- Making, declaring, or paying distributions or dividends other than tax distributions
+- Establishing a quorum at a meeting of stockholders (and likely, by extension, at a meeting of the board)
+- Approving or making changes to the company’s budget or approving capital expenditures outside the budget
+- Determining employee compensation
+- Hiring and firing officers and executives.
+- Blocking changes in the company’s strategic direction.
+- Establishing or amending an incentive or employee stock ownership plan.
+- Incurring or guaranteeing debts or obligations.
+- Initiating or defending a lawsuit.
+- Entering contracts or joint ventures.
+- Amending or terminating leases.
+
+Note - investors will have to irrevocably give up these rights per the [Treasury](https://home.treasury.gov/system/files/136/Paycheck-Protection-Program-Frequenty-Asked-Questions.pdf)

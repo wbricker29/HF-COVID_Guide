@@ -39,4 +39,7 @@ Given that application is top of mind, we wanted to dedicate a section to helpin
 ## Helpful Resources
 
 [NVCA Application Guide](https://nvca.org/wp-content/uploads/2020/04/NVCA-PPP-Loan-Application-Guidance.pdf) may be helpful
+
 [A recount of SVB's Process](https://twitter.com/thepaulk/status/1247622320685895682)
+
+[Lenders that we know are accepting new customers](https://docs.google.com/spreadsheets/d/1wHQrkf0ElDVnEEWJOahr3E6eMsxyZIvPRrpMdjlr37g/edit#gid=0) _(same as above)_

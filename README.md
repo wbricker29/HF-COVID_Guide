@@ -48,7 +48,7 @@ There is a lot of speculation out there. The most reliable resources are from th
 
 ### Look at the PPP Loan First
 
-We Recommend that all our portfolio companies __consider first and foremost the PPP loan__. We believe it has the most favorable terms for our founders
+We recommend that all our portfolio companies __consider first and foremost the PPP loan__. We believe it has the most favorable terms for our founders
 
 - Potential forgiveness for approved payroll usage (up to 100% of principle)
 - No personal guarantee
@@ -83,7 +83,7 @@ A lot remains unknown, and information is constantly evolving. As of now, the bi
 
 Thus, we recommend that founders __discuss with their investors the possibility of changing applicable covenants to enhance your eligibility.__
 
-As of now, negative clauses around day-to-day operations that likely would impact affiliation are (Per [NVCA Guidance](https://nvca.org/wp-content/uploads/2020/03/VC-SBA-Lending-and-Affiliation-Guidance-for-SBA-Loan-Programs.pdf)):
+As of now, our best guess on the negative clauses around day-to-day operations that would likely impact affiliation are (Per [NVCA Guidance](https://nvca.org/wp-content/uploads/2020/03/VC-SBA-Lending-and-Affiliation-Guidance-for-SBA-Loan-Programs.pdf)):
 
 - Making, declaring, or paying distributions or dividends other than tax distributions
 - Establishing a quorum at a meeting of stockholders (and likely, by extension, at a meeting of the board)
