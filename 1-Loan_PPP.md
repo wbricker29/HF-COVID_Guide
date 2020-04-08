@@ -11,14 +11,14 @@ At the most basic level, The provision of loans to eligible businesses
 - Of up to $10M dollars
 - That can be forgiven if used in the proper way
 
+
 ## Who is eligible
 
 |  |   |
 | --- | --- |
 | Types of Entities | - For profit small businesses <br/> -   not-for-profits (except those receiving Medicaid funds) 501(c)(3) <br/> - veterans organizations 501(c)(19)  and Tribal business concerns <br/> -   Sole-proprietors, independent contractors, and self- employed individuals (e.g., Gig-Economy) |
 | Company Characteristics | - Started before February 15, 2020 <br/> - Pay employee salaries and payroll tax <br/> - Have not participated in the CARE acts Employee Retention Credit (Section 2301) |
-| Company Size | __For franchises and hospitality businesses (NAICS code 72 "accommodation and food services") with multiple locations__ <br/> - that employ more than 500 employees as an organization, but no more than 500 employees at any given location <br/> <br/> __For other Businesses__ <br/> - Controlling entity employs less than 500 Employees (full-time, part time otherwise)* <br/>- Companies that are smaller than the [existing size standard](https://www.sba.gov/document/support--table-size-standards)<br/> - Companies that meet alternative size standard: (1) maximum tangible net worth of the business is not more than $15 million; and (2) the average net income after Federal income taxes (excluding any carry-over losses) of the business for the two full fiscal years before the date of the application is not more
-than $5 million.  |
+| Company Size | __For franchises and hospitality businesses (NAICS code 72 "accommodation and food services") with multiple locations__ <br/> - that employ more than 500 employees as an organization, but no more than 500 employees at any given location <br/> <br/> __For other Businesses__ <br/> - Controlling entity employs less than 500 Employees (full-time, part time otherwise)* <br/>- Companies that are smaller than the [existing size standard](https://www.sba.gov/document/support--table-size-standards) <br/> - Companies that meet alternative size standard: (1) maximum tangible net worth of the business is not more than $15 million and (2) the average net income after Federal income taxes (excluding any carry-over losses) of the business for the two full fiscal years before the date of the application is not more than 5 Million |
 | Eligible employees for consideration (For small businesses| All individuals employed on a full-time, part-time, or other basis <br/> - Includes - employees obtained from a temporary employee agency, professional employee organization, or leasing concern <br/> - Excludes - in most cases, independent contractors [per SBA employee definitions](https://www.sba.gov/sites/default/files/files/SizePolicyStatementNo1.pdf) who will be able to apply via separate process per [Treasury](https://home.treasury.gov/system/files/136/PPP--Fact-Sheet.pdf)  |
 
 *Please note – defining who controls your business is a key question in understanding your eligibility. Things are still less clear than we would like when it comes to defining any controlling interests. Given what guidance and interpretations we have seen ([discussed here](A2-Affiliation_Control.md)) __our understanding is that if the founding group__:

@@ -56,84 +56,30 @@ We Recommend that all our portfolio companies __consider first and foremost the 
 - No requirement to tie damage directly to COVID-19
 - Rate and Term
 
-### Get ready to apply NOW
+### Start the Application Process NOW!
 
-#### Find a lender if you don't already have a relationship with one
+[Guidance Here](A3-Application%20Guidance.md)
 
-The process will not be smooth for lenders, whether they are currently approved or not. This represents a huge expansion of the existing program:
+### Understand What the Loan Entails
 
-- ~15x 2019 Deployment to be executed over several weeks
-- the onboarding of new partners and new processes
-- the definition of many parts of the program is still unclear
+See [here](1-Loan_PPP.md) for details
 
-Try to get your spot in line now with a lender that can provide you the quickest path to getting your loan
-
-- If you __already have an existing relationship__ with a lender or an entity that is eligible to become one, go there first
-  - lenders are prioritizing existing clients first
-  - the requirements to become an approved lender have been relaxed, so many entities will be joining the program
-- if you __do not have an existing relationship with a lender__, find a lender that is accepting new customers
-  - partial list can be found [here](https://docs.google.com/spreadsheets/d/1wHQrkf0ElDVnEEWJOahr3E6eMsxyZIvPRrpMdjlr37g/edit#gid=0)
-  - Gusto's list [here](https://docs.google.com/spreadsheets/d/1tzF2kJGjJtxkLxdWbKLfUtjJGfqGeL7V0dvzlextHJs/edit#gid=1030711345)
-  - Lendio & Fundera are available as matching providers
-- While the SBA has a [lender match tool](https://www.sba.gov/paycheckprotection/find) to help find a lender, as of now it is not providing reliable results
-
-#### Get your form and associated documents together
-
-- Get your [form](https://home.treasury.gov/system/files/136/Paycheck-Protection-Program-Application-3-30-2020-v3.pdf) ready
-- Start to prepare the proper documentation (will vary slightly depending on lender)
-  - Expected materials include:
-    - Quarterly Payroll IRS filing - Form 941
-      - at least all 4 quarters of 2019
-      - Ideally Last 5 quarters (2019+1Q2020)
-    - Articles of incorporation
-    - Tax Return
-      - At least 2018
-      - Ideally 2019
-    - Bank statements
-      - At least from Nov 2019 to Feb 2020
-      - Ideally FY 2019 and Jan + Feb 2020
-    - Any statements regarding non-payroll expenses
-    - Payroll service report if your payroll has fluctuated
-    - (Probably) Bylaws and Partnership Agreements
-    - (Possibly) W2 & 1099 for each employee
-- For newer businesses that do not have previous relationships with qualified lenders, they may be required to provide further documentation around
-  - Founder’s personal finances
-  - The business structure and plan
-
-[NVCA Application Guide](https://nvca.org/wp-content/uploads/2020/04/NVCA-PPP-Loan-Application-Guidance.pdf) may be helpful
-
-### Understand the implications of your application
-
-#### You will have to adhere to all certifications in the form
-
-This includes
-
-- Retaining employee and wage levels
-  - forgiveness  will be reduced if there is a decrease in in the number of employees or wages in excess of 25% of total wages during the period.
-  - Employers must bring back employees terminated from Feb 15 to April 27 before June 30th
-- That current economic uncertainty makes the loan necessary to support your ongoing operations.
-- That you have not and will not receive another loan under this program.
-
-#### You will have to account for use of all proceeds
-
-So stand up processes to track spending now.
-
-#### Eligible loan amount & Forgiveness amount
-
-There are two relevant caps to remember
-
-- Employee salary qualifies up to 100K per Year
-  - __Impact__ - not all of your salary expenses may be used to calculate loan size
-- the maximum amount of the lone that can be applied to non-payroll operating expenses is 25%
-  - __Impact__ -  your loan may not be fully forgivable even if you use it on qualified operating expenses
+- Understand the __certifications__ you will be making (for full list, see form)
+  - including requirement to retain employee and wage levels
+    - forgiveness  will be reduced if there is a decrease in in the number of employees or wages in excess of 25% of total wages during the period.
+    - Employers must bring back employees terminated from Feb 15 to April 27 before June 30th
+- Stand up a process to __track spending now__ - because you will be called upon to account for use of proceeds
+- Understand the caps placed on the loan AND that eligibility <> forgiveness
+  - Employee salary qualifies up to 100K per Year
+    - __Impact__ - not all of your salary expenses may be used to calculate loan size
+  - the maximum amount of the lone that can be applied to non-payroll operating expenses is 25%
+    - __Impact__ -  your loan may not be fully forgivable even if you use it on qualified operating expenses
 
 _intro VC has created a [google doc](https://docs.google.com/spreadsheets/d/1RL-yqNeLQzMwCi08hsJRzS-6I4m7C7TfMrnv-SmAH2w/edit#gid=1299986469) to help model forgiveness, have not verified accuracy_
 
 ### For those founder's worried about eligibility
 
-A lot remains unknown, and information is constantly evolving. As of now, the biggest questions for venture backed startups are around size requirements and the affiliation clause.
-
-What we do know is that certain negative rights by investors on day-to-day operations may trigger the affiliation rules.
+A lot remains unknown, and information is constantly evolving. As of now, the biggest questions for venture backed startups are around size requirements and the affiliation clause. Certain negative rights held by investors on day-to-day operations may trigger the affiliation rules.
 
 Thus, we recommend that founders __discuss with their investors the possibility of changing applicable covenants to enhance your eligibility.__
 
@@ -152,6 +98,7 @@ As of now, negative clauses around day-to-day operations that likely would impac
 - Amending or terminating leases.
 
 Note: investors will have to irrevocably give up those rights.
+
 ----
 
 ## Guide Intro

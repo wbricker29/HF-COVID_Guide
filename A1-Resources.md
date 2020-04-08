@@ -38,6 +38,7 @@ While information and interpretation are evolving quickly, here are some great r
 [SBA's Lender Matching Tool](https://www.sba.gov/paycheckprotection/find)
 
 [Sample Application](https://www.sba.gov/sites/default/files/2020-03/Borrower%20Paycheck%20Protection%20Program%20Application_0.pdf)
+[NVCA Application Guide](https://nvca.org/wp-content/uploads/2020/04/NVCA-PPP-Loan-Application-Guidance.pdf)
 
 ## Other Guides
 
