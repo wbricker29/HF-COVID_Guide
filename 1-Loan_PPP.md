@@ -11,7 +11,6 @@ At the most basic level, The provision of loans to eligible businesses
 - Of up to $10M dollars
 - That can be forgiven if used in the proper way
 
-
 ## Who is eligible
 
 |  |   |
@@ -35,8 +34,8 @@ the size requirement applies to only the applicant company (not its investors or
 | __Length__ | 2 Years |
 | __Interest Rate__ | 1% |
 | __Amount__ | Lesser of <br/> - 250% of applicable average monthly payroll cost over applicable calculation period (more below) <br/> - $10 Mn |
-| _Calculation Window_ | __For most businesses__ <br/> - 12 months before loan is made <br/> - OR FY 2019 <br/> - OR If not operational for >=12 months, use average # of employees for each pay period in operation.<br/>__For seasonal employers__  <br/>  - average monthly rate between 2/15/19 to 6/30/19 <br/> -  OR average monthly rate between 3/1/19 to 6/30/19 <br/>__For businesses not in existence from 2/15/2019 to 6/30/2019__ <br/> - 1/1/20-2/29/20  |
-| _Eligible Calculation Expenses_ |  NOTE: AT THE END OF THE DAY, THIS IS AT THE DISCRETION OF THE LENDER <br/> __Payroll__<br/> Includes <br/> _- (Capped at 100k/Yr ) salary, wages, commissions, tips, PTO, leave <br/> - health insurance, retirement benefits and state/local employment taxes_ <br/> Excludes<br/> - _Non US based employees_<br/> _- 1099 Independent Contractors_ <br/> <br/>__Select Operating Expenses__<br/>(required to have existed prior to 2/15/20, Capped @ 25% of loan)<br/> - mortgage & outstanding debt interest payments, rent, and utilities|
+| _Calculation Window_ | __For most businesses__ <br/> - 12 months before loan is made <br/> - OR FY 2019 <br/> - OR If not operational for >=12 months, use average # of employees for each pay period in operation.<br/>__For seasonal employers__  <br/>  - average monthly rate between 2/15/19 to 6/30/19 <br/> -  OR average monthly rate between 3/1/19 to 6/30/19 <br/>-  OR 8 week period between 2/15/19 to 6/30/19 <br/>__For businesses not in existence from 2/15/2019 to 6/30/2019__ <br/> - 1/1/20-2/29/20  |
+| _Eligible Calculation Expenses_ |  NOTE: AT THE END OF THE DAY, THIS IS AT THE DISCRETION OF THE LENDER <br/> __Payroll__<br/> Includes <br/> _- (Capped at 100k/Yr ) salary, wages, commissions, tips, PTO, leave <br/> - health insurance, retirement benefits and state/local employment taxes_ <br/> Excludes<br/> - _Non US based employees_<br/> _- 1099 Independent Contractors_ <br/> _- Federal payroll taxes_ <br/>__Select Operating Expenses__<br/>(required to have existed prior to 2/15/20, Capped @ 25% of loan)<br/> - mortgage & outstanding debt interest payments, rent, and utilities|
 | __Fees & Penalties__ | No fee taken by SBA <br/> No prepayment penalty |
 | __Payment Deferral__ | 6 Months (with interest accrual) |
 | __Collateral & Guarantee Requirements__ | None |

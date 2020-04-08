@@ -6,12 +6,17 @@
 
 _can also find on [twitter](https://twitter.com/will_bricker)_
 
-### 4/7 (4:30 PM PST)
+### 4/8 ( as of 3:30 PM PST)
+
+- Added [Loan size calculator](https://drive.google.com/file/d/18QFwIxmjKlZsh7OXLH82yMNHOEIFmFap/view?usp=sharing)
+- Treasury gives guidance on when forgiveness window starts (upon first disbursement of loan)
+
+### 4/7
 
 - Still reports of outages, and banks being overwhelmed. We know this is frustrating, let us know how we can help!
 - New [NVCA Application Guide](https://nvca.org/wp-content/uploads/2020/04/NVCA-PPP-Loan-Application-Guidance.pdf)
 - Program updates
-  - Trump announces he will ask for $250 bn more for program 
+  - Trump announces he will ask for $250 bn more for program
   - Looks like approximately $50 bn already spent of initial $350 bn (mostly this week)
 - Treasury updates [FAQ](https://home.treasury.gov/system/files/136/Paycheck-Protection-Program-Frequenty-Asked-Questions.pdf)
   - some clarification around
@@ -23,14 +28,6 @@ _can also find on [twitter](https://twitter.com/will_bricker)_
       - Max tangible net worth <= $15M; and
       - Average net income after fed income tax (excluding carry over losses) is <=$5M for two prior full yrs before application date.
     - Some more lenient calculation window definition
-  
-
-### 4/6
-
-- [Treasury comes out with interim rule on affiliation](https://home.treasury.gov/system/files/136/SBA%20IFR%202.pdf) and [guidance on affiliation](https://home.treasury.gov/system/files/136/Affiliation%20rules%20overview%20%28for%20public%29.pdf)
-  - Points affiliation definition towards  [13 CFR 121.301](https://www.ecfr.gov/cgi-bin/text-idx?SID=7655ef612afd00fe4fba93bfe9122ae7&mc=true&node=se13.1.121_1301&rgn=div8) f
-    - effectively narrows definition down to equity stake and negative rights provisions (removes common interest and disproportionate ownership clauses)
-- updated our information based on that guidance
 
 ## Note on Resources
 

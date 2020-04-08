@@ -38,6 +38,8 @@ Given that application is top of mind, we wanted to dedicate a section to helpin
 
 ## Helpful Resources
 
+[Our Loan Size Calculator](https://drive.google.com/file/d/18QFwIxmjKlZsh7OXLH82yMNHOEIFmFap/view?usp=sharing)
+
 [NVCA Application Guide](https://nvca.org/wp-content/uploads/2020/04/NVCA-PPP-Loan-Application-Guidance.pdf) may be helpful
 
 [A recount of SVB's Process](https://twitter.com/thepaulk/status/1247622320685895682)
