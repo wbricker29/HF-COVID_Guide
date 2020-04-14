@@ -42,22 +42,20 @@ We recommend that all our portfolio companies __consider first and foremost the 
 
 See [here](1-Loan_PPP.md) for details
 
-- Understand the __certifications__ you will be making (for full list, see form)
-  - including requirement to retain employee and wage levels
-    - forgiveness  will be reduced if there is a decrease in in the number of employees or wages in excess of 25% of total wages during the period.
-    - Employers must bring back employees terminated from Feb 15 to April 27 before June 30th
-- Stand up a process to __track spending now__ - because you will be called upon to account for use of proceeds
+- Understand the __certifications__ you will be making (for a full list, see form)
+  - including the requirement to retain employee and wage levels
+    - forgiveness  will be reduced if there is a decrease in the number of employees or wages in excess of 25% of total wages during the period.
+    - Employers must bring back employees terminated from February 15 to April 27 before June 30th
+- Stand up a process to __track spending now__ - because you will be called upon to account for the use of proceeds
 - Understand the caps placed on the loan AND that eligibility <> forgiveness
   - Employee salary qualifies up to 100K per Year
     - __Impact__ - not all of your salary expenses may be used to calculate loan size
   - the maximum amount of the lone that can be applied to non-payroll operating expenses is 25%
     - __Impact__ -  your loan may not be fully forgivable even if you use it on qualified operating expenses
 
-_intro VC has created a [google doc](https://docs.google.com/spreadsheets/d/1RL-yqNeLQzMwCi08hsJRzS-6I4m7C7TfMrnv-SmAH2w/edit#gid=1299986469) to help model forgiveness, have not verified accuracy_
+### For those founders worried about eligibility
 
-### For those founder's worried about eligibility
-
-A lot remains unknown, and information is constantly evolving. As of now, the biggest questions for venture backed startups are around size requirements and the affiliation clause. Certain negative rights held by investors on day-to-day operations may trigger the affiliation rules.
+A lot remains unknown, and information is constantly evolving. As of now, the biggest questions for venture-backed startups are around size requirements and the affiliation clause. Certain negative rights held by investors on day-to-day operations may trigger the affiliation rules.
 
 Thus, we recommend that founders __discuss with their investors the possibility of changing applicable covenants to enhance your eligibility.__
 
@@ -75,7 +73,7 @@ As of now, our best guess on the negative clauses around day-to-day operations t
 - Entering contracts or joint ventures.
 - Amending or terminating leases.
 
-Note: investors will have to irrevocably give up those rights.
+Note: investors will have to give up those rights irrevocably.
 
 ----
 
@@ -91,7 +89,7 @@ __Please note, none of this information constitutes legal or financial advice. Y
 
 ## Guide Overview
 
-At the core of this guide is outlining the available financial aide options for startups
+At the core of this guide is outlining the available financial aid options for startups
 
 | **Item** | **High Level Details** |
 | --- | --- |
