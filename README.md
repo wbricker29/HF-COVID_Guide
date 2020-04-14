@@ -1,33 +1,15 @@
 # Hustle Fund COVID-19 US Relief Guide
 
-----
-
-## What's new
+## Updated on 4/8 ( as of 3:30 PM PST)
 
 _can also find on [twitter](https://twitter.com/will_bricker)_
 
-### 4/8 ( as of 3:30 PM PST)
+----
 
-- Added [Loan size calculator](https://drive.google.com/file/d/18QFwIxmjKlZsh7OXLH82yMNHOEIFmFap/view?usp=sharing)
-- Treasury gives guidance on when forgiveness window starts (upon first disbursement of loan)
+## Key Tools We Have Built
 
-### 4/7
-
-- Still reports of outages, and banks being overwhelmed. We know this is frustrating, let us know how we can help!
-- New [NVCA Application Guide](https://nvca.org/wp-content/uploads/2020/04/NVCA-PPP-Loan-Application-Guidance.pdf)
-- Program updates
-  - Trump announces he will ask for $250 bn more for program
-  - Looks like approximately $50 bn already spent of initial $350 bn (mostly this week)
-- Treasury updates [FAQ](https://home.treasury.gov/system/files/136/Paycheck-Protection-Program-Frequenty-Asked-Questions.pdf)
-  - some clarification around
-    - affiliation - amendment of negative rights that would trigger affiliation OK as long as irrevocable
-    - payroll calc - cap is on 100k of salary
-      - not benefits, employee contributions
-      - State and local taxes
-    - ability to qualify by alternative standards if > 500 employees. Alternative standards (both of which must be met)
-      - Max tangible net worth <= $15M; and
-      - Average net income after fed income tax (excluding carry over losses) is <=$5M for two prior full yrs before application date.
-    - Some more lenient calculation window definition
+[List of lenders we have heard are accepting new clients](https://docs.google.com/spreadsheets/d/1wHQrkf0ElDVnEEWJOahr3E6eMsxyZIvPRrpMdjlr37g/edit#gid=0)
+[Our Loan Size Calculator](https://drive.google.com/file/d/18QFwIxmjKlZsh7OXLH82yMNHOEIFmFap/view?usp=sharing)
 
 ## Note on Resources
 
@@ -50,7 +32,6 @@ We recommend that all our portfolio companies __consider first and foremost the 
 - Potential forgiveness for approved payroll usage (up to 100% of principle)
 - No personal guarantee
 - No collateral requirements
-- No requirement to tie damage directly to COVID-19
 - Rate and Term
 
 ### Start the Application Process NOW!
@@ -122,4 +103,5 @@ In addition we provide:
 
 - Some helpful [resources](A1-Resources.md) we have found during our research
 - A deep dive into control, [affiliation](A2-Affiliation_Control.md), and its implications for VC-backed companies
+- A guide on [how to apply](A3-Application%20Guidance.md)
 - An [FAQ](A4-FAQ.md) that we will try to keep updated
