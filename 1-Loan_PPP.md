@@ -46,4 +46,4 @@ the size requirement applies to only the applicant company (not its investors or
 
 ## How to apply
 
-See guidance on [Readme](README.md)
+See guidance on [Application Guidance Page](A3-Application%20Guidance.md)
