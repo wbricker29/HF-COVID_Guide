@@ -1,14 +1,25 @@
 # Hustle Fund COVID-19 US Relief Guide
 
-## Updated on 4/8 ( as of 3:30 PM PST)
+## Updated on 4/23 ( as of 3:30 PM PST)
 
 _can also find on [twitter](https://twitter.com/will_bricker)_
 
+## What's new 4/23
+New bill coming out, with largely the same structure as the original PPP. Overview:
+- $310 billion for the Paycheck Protection Program (PPP), which ran out of funds late last week
+- $60 billion is set aside for small businesses who do not have access to large financial institutions, to be divided between lenders with less than $10 billion in assets and those with $10-$50 billion
+- $50 billion for SBA Economic Impact Disaster Loan (EIDL) program
+- $75 billion for hospitals
+- $25 billion for COVID-19 tests to be divided among federal, state, and local governments, with a requirement for a national testing strategy
+- Fixes to previous COVID-19 relief measures, including giving states and localities additional flexibility to use funds allocated to address lost revenues
+Assuming this passes the house, the President should sign this Friday.
 ----
 
 ## Key Tools We Have Built
 
 [List of lenders we have heard are accepting new clients](https://docs.google.com/spreadsheets/d/1wHQrkf0ElDVnEEWJOahr3E6eMsxyZIvPRrpMdjlr37g/edit#gid=0)
+
+
 [Our Loan Size Calculator](https://drive.google.com/file/d/18QFwIxmjKlZsh7OXLH82yMNHOEIFmFap/view?usp=sharing)
 
 ## Note on Resources
@@ -38,6 +49,12 @@ We recommend that all our portfolio companies __consider first and foremost the 
 
 [Guidance Here](A3-Application%20Guidance.md)
 
+[List of lenders we have heard are accepting new clients](https://docs.google.com/spreadsheets/d/1wHQrkf0ElDVnEEWJOahr3E6eMsxyZIvPRrpMdjlr37g/edit#gid=0)
+- What we are hearing from our founders:
+  - First united bank will only accept applications from companies in their geographic range
+  - Have had success with Evolve Bank, Radius Bank, Lendio
+  - 
+
 ### Understand What the Loan Entails
 
 See [here](1-Loan_PPP.md) for details
@@ -46,6 +63,7 @@ See [here](1-Loan_PPP.md) for details
   - including the requirement to retain employee and wage levels
     - forgiveness  will be reduced if there is a decrease in the number of employees or wages in excess of 25% of total wages during the period.
     - Employers must bring back employees terminated from February 15 to April 27 before June 30th
+  - and good faith certification that current economic uncertainty makes the loan necessary to support your ongoing operations. (must take into account current business activity and their ability to access other sources of liquidity sufficient to support their ongoing operations in a manner that is not significantly detrimental to the business ) 
 - Stand up a process to __track spending now__ - because you will be called upon to account for the use of proceeds
 - Understand the caps placed on the loan AND that eligibility <> forgiveness
   - Employee salary qualifies up to 100K per Year

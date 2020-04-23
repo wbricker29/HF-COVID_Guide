@@ -9,8 +9,6 @@ Given that application is top of mind, we wanted to dedicate a section to help y
   - the requirements to become an approved lender have been relaxed, so many entities will be joining the program
 - if you __do not have an existing relationship with a lender__, find a lender that is accepting new customers
   - a partial list can be found [here](https://docs.google.com/spreadsheets/d/1wHQrkf0ElDVnEEWJOahr3E6eMsxyZIvPRrpMdjlr37g/edit#gid=0)
-  - Gusto's list [here](https://docs.google.com/spreadsheets/d/1tzF2kJGjJtxkLxdWbKLfUtjJGfqGeL7V0dvzlextHJs/edit#gid=1030711345)
-  - Lendio & Fundera are available as matching providers
 - While the SBA has a [lender match tool](https://www.sba.gov/paycheckprotection/find) to help find a lender, as of now it is not providing reliable results
 
 ## Get your form and associated documents together

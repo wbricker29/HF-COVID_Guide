@@ -48,7 +48,10 @@ from March 13, 2020 through December 31, 2020</td>
 
 ### How to apply
 
-As of now, the IRS has not provided guidance as to how to apply.
+Eligible Employers will report their total qualified wages and the related credits for each calendar quarter on their federal employment tax returns, usually Form 941, Employer's Quarterly Federal Tax Return.  Form 941 is used to report income and social security and Medicare taxes withheld by the employer from employee wages, as well as the employer’s portion of social security and Medicare tax. 
+
+In anticipation of receiving the credits, Eligible Employers can fund qualified wages by accessing federal employment taxes, including withheld taxes, that are required to be deposited with the IRS or by requesting an advance of the credit from the IRS.
+[per the IRS](https://www.irs.gov/newsroom/faqs-employee-retention-credit-under-the-cares-act)
 
 ## Tax Deferral
 

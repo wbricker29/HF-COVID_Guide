@@ -112,6 +112,15 @@ _Answer as of 4/8_
 
 __For most businesses__ <br/> - 12 months before loan is made <br/> - OR FY 2019 <br/> - OR If not operational for >=12 months, use average # of employees for each pay period in operation.<br/>__For seasonal employers__  <br/>  - average monthly rate between 2/15/19 to 6/30/19 <br/> -  OR average monthly rate between 3/1/19 to 6/30/19 <br/>-  OR 8 week period between 2/15/19 to 6/30/19 <br/>__For businesses not in existence from 2/15/2019 to 6/30/2019__ <br/> - 1/1/20-2/29/20 
 
+
+### When does the 8 week window for use of proceds start?
+
+"The eight-week period begins on the date the lender makes the first
+disbursement of the PPP loan to the borrower. The lender must make the first
+disbursement of the loan no later than ten calendar days from the date of loan approval"
+
+[Per Treasury FAQ](https://home.treasury.gov/system/files/136/Paycheck-Protection-Program-Frequently-Asked-Questions.pdf)
+
 ----
 
 ## Other Questions
