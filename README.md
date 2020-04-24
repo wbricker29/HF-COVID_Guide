@@ -38,32 +38,36 @@ There is a lot of speculation out there. The most reliable resources are from th
 
 ### Look at the PPP Loan First
 
-We recommend that all our portfolio companies __consider first and foremost the PPP loan__. We believe it has the most favorable terms for our founders
+We recommend that all our portfolio companies who need capital as a consequence of the COVID-19 disaster to consider the PPP loan. We believe it has the most favorable terms for our founders
 
 - Potential forgiveness for approved payroll usage (up to 100% of principle)
 - No personal guarantee
 - No collateral requirements
 - Rate and Term
 
+However, we believe it's important to make sure that this is something they truly need given the scarcity of funds.
+
 ### Start the Application Process NOW!
 
 [Guidance Here](A3-Application%20Guidance.md)
 
 [List of lenders we have heard are accepting new clients](https://docs.google.com/spreadsheets/d/1wHQrkf0ElDVnEEWJOahr3E6eMsxyZIvPRrpMdjlr37g/edit#gid=0)
-- What we are hearing from our founders:
-  - First united bank will only accept applications from companies in their geographic range
-  - Have had success with Evolve Bank, Radius Bank, Lendio
-  - 
+
+Our founders have had success with: 
+
+- SVB (if they had a pre-existing relationship)
+-  Evolve Bank, Radius Bank, Lendio (as new customers)
 
 ### Understand What the Loan Entails
 
-See [here](1-Loan_PPP.md) for details
+See [here](1-Loan_PPP.md) for details - this is not free money, this is a relief program for firms that need it. 
 
 - Understand the __certifications__ you will be making (for a full list, see form)
   - including the requirement to retain employee and wage levels
     - forgiveness  will be reduced if there is a decrease in the number of employees or wages in excess of 25% of total wages during the period.
     - Employers must bring back employees terminated from February 15 to April 27 before June 30th
-  - and good faith certification that current economic uncertainty makes the loan necessary to support your ongoing operations. (must take into account current business activity and their ability to access other sources of liquidity sufficient to support their ongoing operations in a manner that is not significantly detrimental to the business ) 
+  - and good faith certification that current economic uncertainty makes the loan necessary to support your ongoing operations. 
+    - "must take into account current business activity and their ability to access other sources of liquidity sufficient to support their ongoing operations in a manner that is not significantly detrimental to the business" 
 - Stand up a process to __track spending now__ - because you will be called upon to account for the use of proceeds
 - Understand the caps placed on the loan AND that eligibility <> forgiveness
   - Employee salary qualifies up to 100K per Year
