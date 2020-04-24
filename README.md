@@ -38,7 +38,7 @@ There is a lot of speculation out there. The most reliable resources are from th
 
 ### Look at the PPP Loan First
 
-We recommend that all our portfolio companies who need capital as a consequence of the COVID-19 disaster to consider the PPP loan. We believe it has the most favorable terms for our founders
+We recommend that our portfolio companies who need capital as a consequence of the COVID-19 disaster consider the PPP loan. We believe it has the most favorable terms for our founders
 
 - Potential forgiveness for approved payroll usage (up to 100% of principle)
 - No personal guarantee
@@ -56,7 +56,7 @@ However, we believe it's important to make sure that this is something they trul
 Our founders have had success with: 
 
 - SVB (if they had a pre-existing relationship)
--  Evolve Bank, Radius Bank, Lendio (as new customers)
+- Evolve Bank, Radius Bank, Lendio (as new customers)
 
 ### Understand What the Loan Entails
 
